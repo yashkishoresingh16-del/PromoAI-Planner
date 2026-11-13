@@ -1,0 +1,9 @@
+group,manufacturer,segment,regular_price,base_units,wholesale,unit_cost,discount_response,owned
+P103-Cola-600ml,103,Cola bottles,45,660,31,19,3.0,1
+P103-Zero-600ml,103,Cola bottles,50,340,34,22,2.8,1
+P069-Cola-600ml,69,Cola bottles,44,560,30,19,2.8,0
+P2224-Cola-600ml,2224,Cola bottles,42,410,29,17,2.7,0
+P103-Classic-Chips-60g,103,Potato chips,30,740,20,12,3.8,1
+P103-Masala-Chips-60g,103,Potato chips,32,570,22,14,3.4,1
+P069-Salted-Chips-60g,69,Potato chips,28,480,19,11,3.2,0
+P2224-Spicy-Chips-60g,2224,Potato chips,29,410,19,12,3.1,0

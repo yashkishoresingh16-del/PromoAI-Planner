@@ -1,0 +1,76 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PromoAI Promotion Planner</title>
+<style>
+:root{font:15px/1.5 system-ui,sans-serif;color:#182b35;background:#edf3f0}*{box-sizing:border-box}body{margin:0}header{background:#11352f;color:#fff;padding:32px 20px}main,header>div{max-width:1240px;margin:auto}main{padding:14px 18px 40px}h1,h2,h3,p{margin:0 0 8px}h1{font-size:clamp(2rem,6vw,3.25rem)}h2{font-size:1.42rem}header p{color:#d4e9df}section,details{background:white;border:1px solid #d7e3dd;border-radius:12px;padding:17px;margin:12px 0}summary{font-weight:750;cursor:pointer;color:#145548}button,select,input{font:inherit;padding:7px 10px;border:1px solid #84a69a;border-radius:7px;background:white;color:#17392f}button{background:#19604b;color:#fff;cursor:pointer}button:disabled{opacity:.6}.flex{display:flex;gap:12px;flex-wrap:wrap;align-items:end}label{display:grid;gap:4px;font-weight:650}label input[type=number]{width:115px}.muted{color:#48615b}.status{background:#edf7f0;padding:9px 12px;border-left:4px solid #387b66;margin:12px 0}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:9px}.card{padding:10px;background:#f1f7f4;border-radius:8px}.card b{display:block;font-size:1.18rem}.scroll{overflow:auto;margin-top:8px}table{width:100%;border-collapse:collapse;font-size:.87rem}th,td{text-align:left;padding:7px;border-bottom:1px solid #dbe5df;white-space:nowrap}thead{background:#edf5ef}.own{background:#d5f1dc;color:#12503d;font-weight:bold}.rival{background:#dfeaff;color:#274a76}.bars{display:grid;gap:9px;margin:12px 0}.track{height:12px;background:#e5ece8;border-radius:5px;overflow:hidden}.track i{display:block;height:100%;background:#258164}a{color:#146251}[hidden]{display:none!important}@media(max-width:650px){.cards{grid-template-columns:repeat(2,1fr)}}
+</style>
+<header><div><small>Applied Operations Research · Decision-support prototype</small><h1>PromoAI Promotion Planner</h1><p>Compare promotional calendars, financial results, and retailer constraints.</p></div></header>
+<main>
+<section><h2>Planning inputs</h2><p id="mode" class="muted">Loading planning data…</p>
+<div class="flex"><label>Capacity scenario<select id="cap"></select></label><button id="view">View calendar</button><button id="download">Download calendar CSV</button></div>
+<p class="muted">One slot is one product group on promotion for one week. Scenario totals include committed competitor promotions.</p>
+<details><summary>Eligible offers, unit economics, and competitor commitments</summary><div class="flex"><label>Product group<select id="group"></select></label><label>Planning week<select id="week"></select></label></div><div class="scroll" id="inputs"></div></details>
+</section>
+<details id="live" hidden><summary>Run OR-Tools on your business inputs</summary><p>Upload weekly history and future eligible offers together, or leave both blank to use the sample. Upload locks for your own competitor commitments. Margin and share floors use fractions.</p>
+<form id="solve"><div class="flex"><label>History CSV<input name="history" type="file" accept=".csv"></label><label>Offers CSV<input name="offers" type="file" accept=".csv"></label><label>Locks JSON<input name="locks" type="file" accept=".json"></label></div><div class="flex" id="rules"></div><p><button>Train forecast and optimize</button></p></form><p id="solverlog" role="status"></p></details>
+<section><h2>Recommended promotion calendar</h2><p class="status" id="status" role="status"></p><div class="cards" id="cards"></div><div class="scroll" id="calendar"></div><p class="muted">Green shows selected PepsiCo offers. Blue shows competitor offers. Hover over a cell for forecast units.</p></section>
+<section><h2>Compare scenarios</h2><p id="tradeoff"></p><div class="bars" id="bars"></div><div class="scroll" id="comparison"></div></section>
+<section><h2>Model and data</h2><p>LightGBM forecasts weekly demand under eligible offers and peer discount pressure. Piecewise-linear demand curves feed Google OR-Tools MPSolver with SCIP. The optimizer chooses one offer per product group and week and balances PepsiCo and retailer revenue and margin while respecting business rules.</p><p>Sample data is synthetic. The sample holdout WAPE was 9.7% versus 17.9% for the group-median baseline. The reported score combines four equally weighted financial metrics.</p><p><a href="https://doi.org/10.1287/inte.2025.0302">Case paper</a></p></section>
+</main>
+<script>
+const el=id=>document.getElementById(id);
+const esc=x=>String(x??'').replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+const number=(v,n=0)=>Number(v).toLocaleString('en-IN',{maximumFractionDigits:n,minimumFractionDigits:n});
+const money=(v,n=0)=>'₹'+number(v,n);
+const cell=(v,tag='td')=>'<'+tag+'>'+esc(v)+'</'+tag+'>';
+const table=(heads,rows)=>'<table><thead><tr>'+heads.map(v=>cell(v,'th')).join('')+'</tr></thead><tbody>'+rows.join('')+'</tbody></table>';
+const row=values=>'<tr>'+values.map(v=>cell(v)).join('')+'</tr>';
+const options=(select,values)=>select.replaceChildren(...values.map(([v,label])=>new Option(label,v)));
+let data,selected;
+const rules=[['caps','Total caps','25 16 8'],['pepsi-cap','PepsiCo cap',16],['weekly-cap','Weekly cap',3],['budget','Funding limit',50000],['pepsi-floor','PepsiCo margin floor',.25],['retailer-floor','Retailer margin floor',.23],['share-floor','PepsiCo revenue share',.45],['min-duration','Minimum block',2],['max-duration','Maximum block',3],['spacing','Gap between blocks',1],['weights','Financial weights','0.25 0.25 0.25 0.25']];
+el('rules').innerHTML=rules.map(([n,label,value])=>'<label>'+label+'<input name="'+n+'" '+(typeof value==='number'?'type="number" step="any"':'type="text"')+' value="'+value+'" required></label>').join('');
+const formatMetric=(k,v)=>k==='PepsiCo share of retail revenue'?number(100*v,1)+'%':k==='Forecast volume'||k==='Active promotion weeks'?number(v):k==='Weighted score'?number(v,2):money(v);
+const keys=['Forecast volume','Trade spend','PepsiCo revenue','PepsiCo margin','Retailer revenue','Retailer margin','PepsiCo share of retail revenue','Active promotion weeks','Weighted score'];
+function showInputs(){
+ const g=el('group').value,w=Number(el('week').value);
+ const dates=[...new Set(data.offers.map(r=>r.week_start))].sort();
+ const lock=data.locks.find(r=>r[0]===g&&r[1]===w);
+ el('inputs').innerHTML='<p>'+esc(dates[w-1])+' · '+(lock?'Committed offer: '+esc(lock[2]):'Planner-controlled offer')+'</p>'+table(
+ ['Offer','Shelf price','PepsiCo unit revenue','PepsiCo unit margin','Retailer unit margin','Trade funding per unit'],
+ data.offers.filter(r=>r.group===g&&r.week_start===dates[w-1]).map(r=>row([r.offer,...['shelf_price','pepsi_unit_revenue','pepsi_unit_margin','retail_unit_margin','trade_spend_per_unit'].map(k=>money(r[k],2))])));
+}
+function show(){
+ selected=data.scenarios[el('cap').value];
+ el('download').disabled=!selected.calendar;
+ el('status').textContent=selected.status+(selected.calendar?' · '+number(selected.metrics['Active promotion weeks'])+' active slots':el('cap').value==='8'&&data.demo?' · Nine locked competitor slots already exceed the cap.':'');
+ el('cards').innerHTML=selected.calendar?['Forecast volume','Trade spend','Retailer margin','Weighted score'].map(k=>'<div class="card"><b>'+formatMetric(k,selected.metrics[k])+'</b>'+k+'</div>').join(''):'';
+ if(!selected.calendar){el('calendar').innerHTML='';return;}
+ const weeks=[...new Set(selected.calendar.map(r=>Number(r.week)))].sort((a,b)=>a-b);
+ el('calendar').innerHTML=table(['Product group',...weeks.map(w=>'W'+w)],data.catalog.map(g=>'<tr>'+cell(g.group,'th')+selected.calendar.filter(r=>r.group===g.group).sort((a,b)=>a.week-b.week).map(r=>'<td class="'+(r.offer==='Base'?'':String(g.owned)==='1'?'own':'rival')+'" title="'+esc(r.week_start+' · '+number(r.forecast_units)+' forecast units')+'">'+esc(r.offer)+'</td>').join('')+'</tr>'));
+}
+function load(payload){
+ data=payload;
+ options(el('cap'),Object.keys(data.scenarios).sort((a,b)=>b-a).map(c=>[c,c+' total slots']));
+ options(el('group'),data.catalog.map(g=>[g.group,g.group]));
+ options(el('week'),[...new Set(data.offers.map(r=>r.week_start))].sort().map((d,i)=>[i+1,'Week '+(i+1)+' · '+d]));
+ const good=Object.entries(data.scenarios).filter(([,s])=>s.metrics).sort(([a],[b])=>b-a);
+ el('comparison').innerHTML=good.length?table(['Metric',...good.map(([c])=>'Cap '+c)],keys.map(k=>row([k,...good.map(([,s])=>formatMetric(k,s.metrics[k]))]))):'No feasible scenarios to compare.';
+ const max=Math.max(1,...good.map(([,s])=>s.metrics['Forecast volume']));
+ el('bars').innerHTML=good.map(([c,s])=>'<div>Cap '+esc(c)+' · '+number(s.metrics['Forecast volume'])+' forecast units<div class="track"><i style="width:'+100*s.metrics['Forecast volume']/max+'%"></i></div></div>').join('');
+ el('tradeoff').textContent=good.length>=2?'Moving from '+good[0][0]+' to '+good[1][0]+' slots changes forecast volume by '+number(good[1][1].metrics['Forecast volume']-good[0][1].metrics['Forecast volume'])+' units and trade funding by '+money(good[1][1].metrics['Trade spend']-good[0][1].metrics['Trade spend'])+'.':'';
+ showInputs();show();
+}
+el('view').onclick=show;el('group').onchange=showInputs;el('week').onchange=showInputs;
+el('download').onclick=()=>{
+ const fields=['group','week','offer','forecast_units','week_start'];
+ const csv=[fields,...selected.calendar.map(r=>fields.map(k=>r[k]))].map(r=>r.map(v=>'"'+String(v).replaceAll('"','""')+'"').join(',')).join('\r\n');
+ const url=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));const a=document.createElement('a');a.href=url;a.download='calendar_cap_'+el('cap').value+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+};
+el('solve').onsubmit=async e=>{
+ e.preventDefault();const button=e.target.querySelector('button');button.disabled=true;el('solverlog').textContent='Training LightGBM and solving the requested scenarios…';
+ try{const form=new FormData(e.target);const input={};for(const [k,v] of form)input[k]=v instanceof File?await v.text():v;
+ const response=await fetch('/api/solve',{method:'POST',body:JSON.stringify(input),headers:{'Content-Type':'application/json'}});
+ const result=await response.json();if(!response.ok)throw Error(result.error);load(result);el('solverlog').textContent=result.summary;
+ }catch(err){el('solverlog').textContent=err.message;}finally{button.disabled=false;}
+};
+fetch('demo.json').then(r=>r.json()).then(d=>{d.demo=true;load(d);el('mode').textContent='Hosted demonstration · verified OR-Tools results for the synthetic retailer.';}).catch(e=>el('mode').textContent=e.message);
+fetch('/api/health').then(r=>r.ok?r.json():null).then(r=>{if(r?.live){el('live').hidden=false;el('mode').textContent='Local planner · upload your business inputs and run OR-Tools.';}}).catch(()=>{});
+</script></html>

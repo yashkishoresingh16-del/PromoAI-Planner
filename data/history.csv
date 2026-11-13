@@ -1,0 +1,1249 @@
+week_start,group,segment,offer,units,shelf_price,discount,peer_discount,holiday
+2023-01-02,P103-Cola-600ml,Cola bottles,10% Off,714,40.5,0.1,0.03333333,1
+2023-01-02,P103-Zero-600ml,Cola bottles,Base,294,50.0,0.0,0.06666667,1
+2023-01-02,P069-Cola-600ml,Cola bottles,10% Off,614,39.6,0.1,0.03333333,1
+2023-01-02,P2224-Cola-600ml,Cola bottles,Base,373,42.0,0.0,0.06666667,1
+2023-01-02,P103-Classic-Chips-60g,Potato chips,10% Off,976,27.0,0.1,0.03333333,1
+2023-01-02,P103-Masala-Chips-60g,Potato chips,Base,569,32.0,0.0,0.06666667,1
+2023-01-02,P069-Salted-Chips-60g,Potato chips,Base,433,28.0,0.0,0.06666667,1
+2023-01-02,P2224-Spicy-Chips-60g,Potato chips,10% Off,542,26.1,0.1,0.03333333,1
+2023-01-09,P103-Cola-600ml,Cola bottles,10% Off,667,40.5,0.1,0.06666667,0
+2023-01-09,P103-Zero-600ml,Cola bottles,Base,315,50.0,0.0,0.1,0
+2023-01-09,P069-Cola-600ml,Cola bottles,20% Off,714,35.2,0.2,0.03333333,0
+2023-01-09,P2224-Cola-600ml,Cola bottles,Base,281,42.0,0.0,0.1,0
+2023-01-09,P103-Classic-Chips-60g,Potato chips,Base,645,30.0,0.0,0.03333333,0
+2023-01-09,P103-Masala-Chips-60g,Potato chips,Base,497,32.0,0.0,0.03333333,0
+2023-01-09,P069-Salted-Chips-60g,Potato chips,10% Off,600,25.2,0.1,0.0,0
+2023-01-09,P2224-Spicy-Chips-60g,Potato chips,Base,432,29.0,0.0,0.03333333,0
+2023-01-16,P103-Cola-600ml,Cola bottles,20% Off,739,36.0,0.2,0.1,0
+2023-01-16,P103-Zero-600ml,Cola bottles,20% Off,373,40.0,0.2,0.1,0
+2023-01-16,P069-Cola-600ml,Cola bottles,10% Off,490,39.6,0.1,0.13333333,0
+2023-01-16,P2224-Cola-600ml,Cola bottles,Base,321,42.0,0.0,0.16666667,0
+2023-01-16,P103-Classic-Chips-60g,Potato chips,10% Off,855,27.0,0.1,0.06666667,0
+2023-01-16,P103-Masala-Chips-60g,Potato chips,Base,447,32.0,0.0,0.1,0
+2023-01-16,P069-Salted-Chips-60g,Potato chips,10% Off,577,25.2,0.1,0.06666667,0
+2023-01-16,P2224-Spicy-Chips-60g,Potato chips,10% Off,507,26.1,0.1,0.06666667,0
+2023-01-23,P103-Cola-600ml,Cola bottles,Base,587,45.0,0.0,0.06666667,0
+2023-01-23,P103-Zero-600ml,Cola bottles,Base,268,50.0,0.0,0.06666667,0
+2023-01-23,P069-Cola-600ml,Cola bottles,20% Off,865,35.2,0.2,0.0,0
+2023-01-23,P2224-Cola-600ml,Cola bottles,Base,402,42.0,0.0,0.06666667,0
+2023-01-23,P103-Classic-Chips-60g,Potato chips,Base,688,30.0,0.0,0.06666667,0
+2023-01-23,P103-Masala-Chips-60g,Potato chips,20% Off,902,25.6,0.2,0.0,0
+2023-01-23,P069-Salted-Chips-60g,Potato chips,Base,434,28.0,0.0,0.06666667,0
+2023-01-23,P2224-Spicy-Chips-60g,Potato chips,Base,384,29.0,0.0,0.06666667,0
+2023-01-30,P103-Cola-600ml,Cola bottles,Base,573,45.0,0.0,0.13333333,0
+2023-01-30,P103-Zero-600ml,Cola bottles,Base,297,50.0,0.0,0.13333333,0
+2023-01-30,P069-Cola-600ml,Cola bottles,20% Off,649,35.2,0.2,0.06666667,0
+2023-01-30,P2224-Cola-600ml,Cola bottles,20% Off,585,33.6,0.2,0.06666667,0
+2023-01-30,P103-Classic-Chips-60g,Potato chips,Base,779,30.0,0.0,0.03333333,0
+2023-01-30,P103-Masala-Chips-60g,Potato chips,Base,605,32.0,0.0,0.03333333,0
+2023-01-30,P069-Salted-Chips-60g,Potato chips,Base,573,28.0,0.0,0.03333333,0
+2023-01-30,P2224-Spicy-Chips-60g,Potato chips,10% Off,566,26.1,0.1,0.0,0
+2023-02-06,P103-Cola-600ml,Cola bottles,Base,610,45.0,0.0,0.06666667,0
+2023-02-06,P103-Zero-600ml,Cola bottles,Base,337,50.0,0.0,0.06666667,0
+2023-02-06,P069-Cola-600ml,Cola bottles,20% Off,861,35.2,0.2,0.0,0
+2023-02-06,P2224-Cola-600ml,Cola bottles,Base,349,42.0,0.0,0.06666667,0
+2023-02-06,P103-Classic-Chips-60g,Potato chips,10% Off,975,27.0,0.1,0.06666667,0
+2023-02-06,P103-Masala-Chips-60g,Potato chips,Base,457,32.0,0.0,0.1,0
+2023-02-06,P069-Salted-Chips-60g,Potato chips,Base,442,28.0,0.0,0.1,0
+2023-02-06,P2224-Spicy-Chips-60g,Potato chips,20% Off,706,23.2,0.2,0.03333333,0
+2023-02-13,P103-Cola-600ml,Cola bottles,Base,571,45.0,0.0,0.06666667,0
+2023-02-13,P103-Zero-600ml,Cola bottles,10% Off,386,45.0,0.1,0.03333333,0
+2023-02-13,P069-Cola-600ml,Cola bottles,10% Off,594,39.6,0.1,0.03333333,0
+2023-02-13,P2224-Cola-600ml,Cola bottles,Base,366,42.0,0.0,0.06666667,0
+2023-02-13,P103-Classic-Chips-60g,Potato chips,Base,544,30.0,0.0,0.1,0
+2023-02-13,P103-Masala-Chips-60g,Potato chips,10% Off,679,28.8,0.1,0.06666667,0
+2023-02-13,P069-Salted-Chips-60g,Potato chips,Base,374,28.0,0.0,0.1,0
+2023-02-13,P2224-Spicy-Chips-60g,Potato chips,20% Off,489,23.2,0.2,0.03333333,0
+2023-02-20,P103-Cola-600ml,Cola bottles,Base,677,45.0,0.0,0.03333333,0
+2023-02-20,P103-Zero-600ml,Cola bottles,Base,333,50.0,0.0,0.03333333,0
+2023-02-20,P069-Cola-600ml,Cola bottles,10% Off,656,39.6,0.1,0.0,0
+2023-02-20,P2224-Cola-600ml,Cola bottles,Base,449,42.0,0.0,0.03333333,0
+2023-02-20,P103-Classic-Chips-60g,Potato chips,Base,722,30.0,0.0,0.03333333,0
+2023-02-20,P103-Masala-Chips-60g,Potato chips,Base,572,32.0,0.0,0.03333333,0
+2023-02-20,P069-Salted-Chips-60g,Potato chips,Base,502,28.0,0.0,0.03333333,0
+2023-02-20,P2224-Spicy-Chips-60g,Potato chips,10% Off,474,26.1,0.1,0.0,0
+2023-02-27,P103-Cola-600ml,Cola bottles,20% Off,983,36.0,0.2,0.06666667,0
+2023-02-27,P103-Zero-600ml,Cola bottles,20% Off,478,40.0,0.2,0.06666667,0
+2023-02-27,P069-Cola-600ml,Cola bottles,Base,504,44.0,0.0,0.13333333,0
+2023-02-27,P2224-Cola-600ml,Cola bottles,Base,346,42.0,0.0,0.13333333,0
+2023-02-27,P103-Classic-Chips-60g,Potato chips,Base,715,30.0,0.0,0.03333333,0
+2023-02-27,P103-Masala-Chips-60g,Potato chips,Base,617,32.0,0.0,0.03333333,0
+2023-02-27,P069-Salted-Chips-60g,Potato chips,Base,410,28.0,0.0,0.03333333,0
+2023-02-27,P2224-Spicy-Chips-60g,Potato chips,10% Off,455,26.1,0.1,0.0,0
+2023-03-06,P103-Cola-600ml,Cola bottles,10% Off,617,40.5,0.1,0.16666667,0
+2023-03-06,P103-Zero-600ml,Cola bottles,20% Off,420,40.0,0.2,0.13333333,0
+2023-03-06,P069-Cola-600ml,Cola bottles,20% Off,693,35.2,0.2,0.13333333,0
+2023-03-06,P2224-Cola-600ml,Cola bottles,10% Off,458,37.8,0.1,0.16666667,0
+2023-03-06,P103-Classic-Chips-60g,Potato chips,20% Off,1116,24.0,0.2,0.1,0
+2023-03-06,P103-Masala-Chips-60g,Potato chips,10% Off,576,28.8,0.1,0.13333333,0
+2023-03-06,P069-Salted-Chips-60g,Potato chips,20% Off,748,22.4,0.2,0.1,0
+2023-03-06,P2224-Spicy-Chips-60g,Potato chips,Base,326,29.0,0.0,0.16666667,0
+2023-03-13,P103-Cola-600ml,Cola bottles,Base,591,45.0,0.0,0.06666667,0
+2023-03-13,P103-Zero-600ml,Cola bottles,Base,264,50.0,0.0,0.06666667,0
+2023-03-13,P069-Cola-600ml,Cola bottles,Base,503,44.0,0.0,0.06666667,0
+2023-03-13,P2224-Cola-600ml,Cola bottles,20% Off,546,33.6,0.2,0.0,0
+2023-03-13,P103-Classic-Chips-60g,Potato chips,Base,626,30.0,0.0,0.0,0
+2023-03-13,P103-Masala-Chips-60g,Potato chips,Base,575,32.0,0.0,0.0,0
+2023-03-13,P069-Salted-Chips-60g,Potato chips,Base,373,28.0,0.0,0.0,0
+2023-03-13,P2224-Spicy-Chips-60g,Potato chips,Base,416,29.0,0.0,0.0,0
+2023-03-20,P103-Cola-600ml,Cola bottles,10% Off,1130,40.5,0.1,0.06666667,1
+2023-03-20,P103-Zero-600ml,Cola bottles,10% Off,546,45.0,0.1,0.06666667,1
+2023-03-20,P069-Cola-600ml,Cola bottles,Base,690,44.0,0.0,0.1,1
+2023-03-20,P2224-Cola-600ml,Cola bottles,10% Off,587,37.8,0.1,0.06666667,1
+2023-03-20,P103-Classic-Chips-60g,Potato chips,10% Off,1121,27.0,0.1,0.0,1
+2023-03-20,P103-Masala-Chips-60g,Potato chips,Base,649,32.0,0.0,0.03333333,1
+2023-03-20,P069-Salted-Chips-60g,Potato chips,Base,588,28.0,0.0,0.03333333,1
+2023-03-20,P2224-Spicy-Chips-60g,Potato chips,Base,470,29.0,0.0,0.03333333,1
+2023-03-27,P103-Cola-600ml,Cola bottles,Base,594,45.0,0.0,0.06666667,0
+2023-03-27,P103-Zero-600ml,Cola bottles,Base,361,50.0,0.0,0.06666667,0
+2023-03-27,P069-Cola-600ml,Cola bottles,20% Off,976,35.2,0.2,0.0,0
+2023-03-27,P2224-Cola-600ml,Cola bottles,Base,469,42.0,0.0,0.06666667,0
+2023-03-27,P103-Classic-Chips-60g,Potato chips,10% Off,1106,27.0,0.1,0.0,0
+2023-03-27,P103-Masala-Chips-60g,Potato chips,Base,667,32.0,0.0,0.03333333,0
+2023-03-27,P069-Salted-Chips-60g,Potato chips,Base,447,28.0,0.0,0.03333333,0
+2023-03-27,P2224-Spicy-Chips-60g,Potato chips,Base,383,29.0,0.0,0.03333333,0
+2023-04-03,P103-Cola-600ml,Cola bottles,Base,729,45.0,0.0,0.06666667,0
+2023-04-03,P103-Zero-600ml,Cola bottles,10% Off,460,45.0,0.1,0.03333333,0
+2023-04-03,P069-Cola-600ml,Cola bottles,Base,585,44.0,0.0,0.06666667,0
+2023-04-03,P2224-Cola-600ml,Cola bottles,10% Off,551,37.8,0.1,0.03333333,0
+2023-04-03,P103-Classic-Chips-60g,Potato chips,Base,635,30.0,0.0,0.03333333,0
+2023-04-03,P103-Masala-Chips-60g,Potato chips,10% Off,707,28.8,0.1,0.0,0
+2023-04-03,P069-Salted-Chips-60g,Potato chips,Base,459,28.0,0.0,0.03333333,0
+2023-04-03,P2224-Spicy-Chips-60g,Potato chips,Base,446,29.0,0.0,0.03333333,0
+2023-04-10,P103-Cola-600ml,Cola bottles,Base,809,45.0,0.0,0.03333333,0
+2023-04-10,P103-Zero-600ml,Cola bottles,Base,364,50.0,0.0,0.03333333,0
+2023-04-10,P069-Cola-600ml,Cola bottles,10% Off,858,39.6,0.1,0.0,0
+2023-04-10,P2224-Cola-600ml,Cola bottles,Base,450,42.0,0.0,0.03333333,0
+2023-04-10,P103-Classic-Chips-60g,Potato chips,Base,767,30.0,0.0,0.0,0
+2023-04-10,P103-Masala-Chips-60g,Potato chips,Base,693,32.0,0.0,0.0,0
+2023-04-10,P069-Salted-Chips-60g,Potato chips,Base,556,28.0,0.0,0.0,0
+2023-04-10,P2224-Spicy-Chips-60g,Potato chips,Base,430,29.0,0.0,0.0,0
+2023-04-17,P103-Cola-600ml,Cola bottles,10% Off,1035,40.5,0.1,0.06666667,0
+2023-04-17,P103-Zero-600ml,Cola bottles,20% Off,573,40.0,0.2,0.03333333,0
+2023-04-17,P069-Cola-600ml,Cola bottles,Base,599,44.0,0.0,0.1,0
+2023-04-17,P2224-Cola-600ml,Cola bottles,Base,461,42.0,0.0,0.1,0
+2023-04-17,P103-Classic-Chips-60g,Potato chips,Base,882,30.0,0.0,0.03333333,0
+2023-04-17,P103-Masala-Chips-60g,Potato chips,10% Off,799,28.8,0.1,0.0,0
+2023-04-17,P069-Salted-Chips-60g,Potato chips,Base,486,28.0,0.0,0.03333333,0
+2023-04-17,P2224-Spicy-Chips-60g,Potato chips,Base,445,29.0,0.0,0.03333333,0
+2023-04-24,P103-Cola-600ml,Cola bottles,Base,730,45.0,0.0,0.0,0
+2023-04-24,P103-Zero-600ml,Cola bottles,Base,393,50.0,0.0,0.0,0
+2023-04-24,P069-Cola-600ml,Cola bottles,Base,590,44.0,0.0,0.0,0
+2023-04-24,P2224-Cola-600ml,Cola bottles,Base,453,42.0,0.0,0.0,0
+2023-04-24,P103-Classic-Chips-60g,Potato chips,Base,686,30.0,0.0,0.06666667,0
+2023-04-24,P103-Masala-Chips-60g,Potato chips,Base,433,32.0,0.0,0.06666667,0
+2023-04-24,P069-Salted-Chips-60g,Potato chips,10% Off,571,25.2,0.1,0.03333333,0
+2023-04-24,P2224-Spicy-Chips-60g,Potato chips,10% Off,524,26.1,0.1,0.03333333,0
+2023-05-01,P103-Cola-600ml,Cola bottles,20% Off,1302,36.0,0.2,0.03333333,0
+2023-05-01,P103-Zero-600ml,Cola bottles,Base,294,50.0,0.0,0.1,0
+2023-05-01,P069-Cola-600ml,Cola bottles,10% Off,831,39.6,0.1,0.06666667,0
+2023-05-01,P2224-Cola-600ml,Cola bottles,Base,487,42.0,0.0,0.1,0
+2023-05-01,P103-Classic-Chips-60g,Potato chips,Base,732,30.0,0.0,0.06666667,0
+2023-05-01,P103-Masala-Chips-60g,Potato chips,Base,585,32.0,0.0,0.06666667,0
+2023-05-01,P069-Salted-Chips-60g,Potato chips,10% Off,596,25.2,0.1,0.03333333,0
+2023-05-01,P2224-Spicy-Chips-60g,Potato chips,10% Off,515,26.1,0.1,0.03333333,0
+2023-05-08,P103-Cola-600ml,Cola bottles,Base,822,45.0,0.0,0.0,0
+2023-05-08,P103-Zero-600ml,Cola bottles,Base,360,50.0,0.0,0.0,0
+2023-05-08,P069-Cola-600ml,Cola bottles,Base,642,44.0,0.0,0.0,0
+2023-05-08,P2224-Cola-600ml,Cola bottles,Base,530,42.0,0.0,0.0,0
+2023-05-08,P103-Classic-Chips-60g,Potato chips,Base,713,30.0,0.0,0.1,0
+2023-05-08,P103-Masala-Chips-60g,Potato chips,10% Off,642,28.8,0.1,0.06666667,0
+2023-05-08,P069-Salted-Chips-60g,Potato chips,10% Off,486,25.2,0.1,0.06666667,0
+2023-05-08,P2224-Spicy-Chips-60g,Potato chips,10% Off,419,26.1,0.1,0.06666667,0
+2023-05-15,P103-Cola-600ml,Cola bottles,Base,811,45.0,0.0,0.06666667,0
+2023-05-15,P103-Zero-600ml,Cola bottles,10% Off,489,45.0,0.1,0.03333333,0
+2023-05-15,P069-Cola-600ml,Cola bottles,Base,569,44.0,0.0,0.06666667,0
+2023-05-15,P2224-Cola-600ml,Cola bottles,10% Off,623,37.8,0.1,0.03333333,0
+2023-05-15,P103-Classic-Chips-60g,Potato chips,10% Off,1145,27.0,0.1,0.03333333,0
+2023-05-15,P103-Masala-Chips-60g,Potato chips,Base,582,32.0,0.0,0.06666667,0
+2023-05-15,P069-Salted-Chips-60g,Potato chips,Base,392,28.0,0.0,0.06666667,0
+2023-05-15,P2224-Spicy-Chips-60g,Potato chips,10% Off,557,26.1,0.1,0.03333333,0
+2023-05-22,P103-Cola-600ml,Cola bottles,Base,709,45.0,0.0,0.1,0
+2023-05-22,P103-Zero-600ml,Cola bottles,10% Off,504,45.0,0.1,0.06666667,0
+2023-05-22,P069-Cola-600ml,Cola bottles,20% Off,1144,35.2,0.2,0.03333333,0
+2023-05-22,P2224-Cola-600ml,Cola bottles,Base,428,42.0,0.0,0.1,0
+2023-05-22,P103-Classic-Chips-60g,Potato chips,Base,783,30.0,0.0,0.03333333,0
+2023-05-22,P103-Masala-Chips-60g,Potato chips,10% Off,818,28.8,0.1,0.0,0
+2023-05-22,P069-Salted-Chips-60g,Potato chips,Base,542,28.0,0.0,0.03333333,0
+2023-05-22,P2224-Spicy-Chips-60g,Potato chips,Base,427,29.0,0.0,0.03333333,0
+2023-05-29,P103-Cola-600ml,Cola bottles,20% Off,1156,36.0,0.2,0.03333333,0
+2023-05-29,P103-Zero-600ml,Cola bottles,Base,354,50.0,0.0,0.1,0
+2023-05-29,P069-Cola-600ml,Cola bottles,Base,518,44.0,0.0,0.1,0
+2023-05-29,P2224-Cola-600ml,Cola bottles,10% Off,570,37.8,0.1,0.06666667,0
+2023-05-29,P103-Classic-Chips-60g,Potato chips,10% Off,935,27.0,0.1,0.1,0
+2023-05-29,P103-Masala-Chips-60g,Potato chips,10% Off,692,28.8,0.1,0.1,0
+2023-05-29,P069-Salted-Chips-60g,Potato chips,20% Off,746,22.4,0.2,0.06666667,0
+2023-05-29,P2224-Spicy-Chips-60g,Potato chips,Base,404,29.0,0.0,0.13333333,0
+2023-06-05,P103-Cola-600ml,Cola bottles,10% Off,874,40.5,0.1,0.1,0
+2023-06-05,P103-Zero-600ml,Cola bottles,Base,343,50.0,0.0,0.13333333,0
+2023-06-05,P069-Cola-600ml,Cola bottles,20% Off,1079,35.2,0.2,0.06666667,0
+2023-06-05,P2224-Cola-600ml,Cola bottles,10% Off,550,37.8,0.1,0.1,0
+2023-06-05,P103-Classic-Chips-60g,Potato chips,20% Off,1163,24.0,0.2,0.03333333,0
+2023-06-05,P103-Masala-Chips-60g,Potato chips,10% Off,743,28.8,0.1,0.06666667,0
+2023-06-05,P069-Salted-Chips-60g,Potato chips,Base,412,28.0,0.0,0.1,0
+2023-06-05,P2224-Spicy-Chips-60g,Potato chips,Base,372,29.0,0.0,0.1,0
+2023-06-12,P103-Cola-600ml,Cola bottles,10% Off,973,40.5,0.1,0.0,0
+2023-06-12,P103-Zero-600ml,Cola bottles,Base,368,50.0,0.0,0.03333333,0
+2023-06-12,P069-Cola-600ml,Cola bottles,Base,590,44.0,0.0,0.03333333,0
+2023-06-12,P2224-Cola-600ml,Cola bottles,Base,456,42.0,0.0,0.03333333,0
+2023-06-12,P103-Classic-Chips-60g,Potato chips,Base,710,30.0,0.0,0.1,0
+2023-06-12,P103-Masala-Chips-60g,Potato chips,20% Off,849,25.6,0.2,0.03333333,0
+2023-06-12,P069-Salted-Chips-60g,Potato chips,Base,433,28.0,0.0,0.1,0
+2023-06-12,P2224-Spicy-Chips-60g,Potato chips,10% Off,499,26.1,0.1,0.06666667,0
+2023-06-19,P103-Cola-600ml,Cola bottles,Base,698,45.0,0.0,0.0,0
+2023-06-19,P103-Zero-600ml,Cola bottles,Base,362,50.0,0.0,0.0,0
+2023-06-19,P069-Cola-600ml,Cola bottles,Base,548,44.0,0.0,0.0,0
+2023-06-19,P2224-Cola-600ml,Cola bottles,Base,498,42.0,0.0,0.0,0
+2023-06-19,P103-Classic-Chips-60g,Potato chips,10% Off,867,27.0,0.1,0.06666667,0
+2023-06-19,P103-Masala-Chips-60g,Potato chips,Base,429,32.0,0.0,0.1,0
+2023-06-19,P069-Salted-Chips-60g,Potato chips,Base,403,28.0,0.0,0.1,0
+2023-06-19,P2224-Spicy-Chips-60g,Potato chips,20% Off,537,23.2,0.2,0.03333333,0
+2023-06-26,P103-Cola-600ml,Cola bottles,10% Off,826,40.5,0.1,0.06666667,0
+2023-06-26,P103-Zero-600ml,Cola bottles,Base,320,50.0,0.0,0.1,0
+2023-06-26,P069-Cola-600ml,Cola bottles,20% Off,968,35.2,0.2,0.03333333,0
+2023-06-26,P2224-Cola-600ml,Cola bottles,Base,435,42.0,0.0,0.1,0
+2023-06-26,P103-Classic-Chips-60g,Potato chips,Base,668,30.0,0.0,0.03333333,0
+2023-06-26,P103-Masala-Chips-60g,Potato chips,Base,499,32.0,0.0,0.03333333,0
+2023-06-26,P069-Salted-Chips-60g,Potato chips,Base,486,28.0,0.0,0.03333333,0
+2023-06-26,P2224-Spicy-Chips-60g,Potato chips,10% Off,560,26.1,0.1,0.0,0
+2023-07-03,P103-Cola-600ml,Cola bottles,10% Off,1043,40.5,0.1,0.0,0
+2023-07-03,P103-Zero-600ml,Cola bottles,Base,347,50.0,0.0,0.03333333,0
+2023-07-03,P069-Cola-600ml,Cola bottles,Base,619,44.0,0.0,0.03333333,0
+2023-07-03,P2224-Cola-600ml,Cola bottles,Base,445,42.0,0.0,0.03333333,0
+2023-07-03,P103-Classic-Chips-60g,Potato chips,10% Off,962,27.0,0.1,0.0,0
+2023-07-03,P103-Masala-Chips-60g,Potato chips,Base,569,32.0,0.0,0.03333333,0
+2023-07-03,P069-Salted-Chips-60g,Potato chips,Base,414,28.0,0.0,0.03333333,0
+2023-07-03,P2224-Spicy-Chips-60g,Potato chips,Base,389,29.0,0.0,0.03333333,0
+2023-07-10,P103-Cola-600ml,Cola bottles,Base,615,45.0,0.0,0.0,0
+2023-07-10,P103-Zero-600ml,Cola bottles,Base,432,50.0,0.0,0.0,0
+2023-07-10,P069-Cola-600ml,Cola bottles,Base,674,44.0,0.0,0.0,0
+2023-07-10,P2224-Cola-600ml,Cola bottles,Base,406,42.0,0.0,0.0,0
+2023-07-10,P103-Classic-Chips-60g,Potato chips,10% Off,810,27.0,0.1,0.06666667,0
+2023-07-10,P103-Masala-Chips-60g,Potato chips,20% Off,826,25.6,0.2,0.03333333,0
+2023-07-10,P069-Salted-Chips-60g,Potato chips,Base,367,28.0,0.0,0.1,0
+2023-07-10,P2224-Spicy-Chips-60g,Potato chips,Base,361,29.0,0.0,0.1,0
+2023-07-17,P103-Cola-600ml,Cola bottles,20% Off,1151,36.0,0.2,0.03333333,0
+2023-07-17,P103-Zero-600ml,Cola bottles,Base,336,50.0,0.0,0.1,0
+2023-07-17,P069-Cola-600ml,Cola bottles,Base,486,44.0,0.0,0.1,0
+2023-07-17,P2224-Cola-600ml,Cola bottles,10% Off,567,37.8,0.1,0.06666667,0
+2023-07-17,P103-Classic-Chips-60g,Potato chips,Base,725,30.0,0.0,0.0,0
+2023-07-17,P103-Masala-Chips-60g,Potato chips,Base,558,32.0,0.0,0.0,0
+2023-07-17,P069-Salted-Chips-60g,Potato chips,Base,468,28.0,0.0,0.0,0
+2023-07-17,P2224-Spicy-Chips-60g,Potato chips,Base,401,29.0,0.0,0.0,0
+2023-07-24,P103-Cola-600ml,Cola bottles,Base,581,45.0,0.0,0.0,0
+2023-07-24,P103-Zero-600ml,Cola bottles,Base,377,50.0,0.0,0.0,0
+2023-07-24,P069-Cola-600ml,Cola bottles,Base,636,44.0,0.0,0.0,0
+2023-07-24,P2224-Cola-600ml,Cola bottles,Base,420,42.0,0.0,0.0,0
+2023-07-24,P103-Classic-Chips-60g,Potato chips,Base,685,30.0,0.0,0.03333333,0
+2023-07-24,P103-Masala-Chips-60g,Potato chips,10% Off,703,28.8,0.1,0.0,0
+2023-07-24,P069-Salted-Chips-60g,Potato chips,Base,516,28.0,0.0,0.03333333,0
+2023-07-24,P2224-Spicy-Chips-60g,Potato chips,Base,366,29.0,0.0,0.03333333,0
+2023-07-31,P103-Cola-600ml,Cola bottles,Base,597,45.0,0.0,0.1,0
+2023-07-31,P103-Zero-600ml,Cola bottles,20% Off,487,40.0,0.2,0.03333333,0
+2023-07-31,P069-Cola-600ml,Cola bottles,10% Off,765,39.6,0.1,0.06666667,0
+2023-07-31,P2224-Cola-600ml,Cola bottles,Base,340,42.0,0.0,0.1,0
+2023-07-31,P103-Classic-Chips-60g,Potato chips,20% Off,1102,24.0,0.2,0.03333333,0
+2023-07-31,P103-Masala-Chips-60g,Potato chips,10% Off,661,28.8,0.1,0.06666667,0
+2023-07-31,P069-Salted-Chips-60g,Potato chips,Base,433,28.0,0.0,0.1,0
+2023-07-31,P2224-Spicy-Chips-60g,Potato chips,Base,316,29.0,0.0,0.1,0
+2023-08-07,P103-Cola-600ml,Cola bottles,Base,596,45.0,0.0,0.03333333,0
+2023-08-07,P103-Zero-600ml,Cola bottles,Base,267,50.0,0.0,0.03333333,0
+2023-08-07,P069-Cola-600ml,Cola bottles,Base,437,44.0,0.0,0.03333333,0
+2023-08-07,P2224-Cola-600ml,Cola bottles,10% Off,507,37.8,0.1,0.0,0
+2023-08-07,P103-Classic-Chips-60g,Potato chips,20% Off,1195,24.0,0.2,0.0,0
+2023-08-07,P103-Masala-Chips-60g,Potato chips,Base,462,32.0,0.0,0.06666667,0
+2023-08-07,P069-Salted-Chips-60g,Potato chips,Base,381,28.0,0.0,0.06666667,0
+2023-08-07,P2224-Spicy-Chips-60g,Potato chips,Base,383,29.0,0.0,0.06666667,0
+2023-08-14,P103-Cola-600ml,Cola bottles,Base,607,45.0,0.0,0.06666667,0
+2023-08-14,P103-Zero-600ml,Cola bottles,Base,360,50.0,0.0,0.06666667,0
+2023-08-14,P069-Cola-600ml,Cola bottles,20% Off,959,35.2,0.2,0.0,0
+2023-08-14,P2224-Cola-600ml,Cola bottles,Base,359,42.0,0.0,0.06666667,0
+2023-08-14,P103-Classic-Chips-60g,Potato chips,Base,813,30.0,0.0,0.0,0
+2023-08-14,P103-Masala-Chips-60g,Potato chips,Base,710,32.0,0.0,0.0,0
+2023-08-14,P069-Salted-Chips-60g,Potato chips,Base,530,28.0,0.0,0.0,0
+2023-08-14,P2224-Spicy-Chips-60g,Potato chips,Base,496,29.0,0.0,0.0,0
+2023-08-21,P103-Cola-600ml,Cola bottles,Base,782,45.0,0.0,0.03333333,1
+2023-08-21,P103-Zero-600ml,Cola bottles,10% Off,510,45.0,0.1,0.0,1
+2023-08-21,P069-Cola-600ml,Cola bottles,Base,457,44.0,0.0,0.03333333,1
+2023-08-21,P2224-Cola-600ml,Cola bottles,Base,481,42.0,0.0,0.03333333,1
+2023-08-21,P103-Classic-Chips-60g,Potato chips,Base,780,30.0,0.0,0.03333333,1
+2023-08-21,P103-Masala-Chips-60g,Potato chips,Base,699,32.0,0.0,0.03333333,1
+2023-08-21,P069-Salted-Chips-60g,Potato chips,10% Off,759,25.2,0.1,0.0,1
+2023-08-21,P2224-Spicy-Chips-60g,Potato chips,Base,409,29.0,0.0,0.03333333,1
+2023-08-28,P103-Cola-600ml,Cola bottles,Base,447,45.0,0.0,0.1,0
+2023-08-28,P103-Zero-600ml,Cola bottles,10% Off,321,45.0,0.1,0.06666667,0
+2023-08-28,P069-Cola-600ml,Cola bottles,10% Off,474,39.6,0.1,0.06666667,0
+2023-08-28,P2224-Cola-600ml,Cola bottles,10% Off,403,37.8,0.1,0.06666667,0
+2023-08-28,P103-Classic-Chips-60g,Potato chips,Base,557,30.0,0.0,0.06666667,0
+2023-08-28,P103-Masala-Chips-60g,Potato chips,20% Off,806,25.6,0.2,0.0,0
+2023-08-28,P069-Salted-Chips-60g,Potato chips,Base,348,28.0,0.0,0.06666667,0
+2023-08-28,P2224-Spicy-Chips-60g,Potato chips,Base,315,29.0,0.0,0.06666667,0
+2023-09-04,P103-Cola-600ml,Cola bottles,10% Off,772,40.5,0.1,0.06666667,0
+2023-09-04,P103-Zero-600ml,Cola bottles,10% Off,398,45.0,0.1,0.06666667,0
+2023-09-04,P069-Cola-600ml,Cola bottles,Base,462,44.0,0.0,0.1,0
+2023-09-04,P2224-Cola-600ml,Cola bottles,10% Off,406,37.8,0.1,0.06666667,0
+2023-09-04,P103-Classic-Chips-60g,Potato chips,10% Off,716,27.0,0.1,0.2,0
+2023-09-04,P103-Masala-Chips-60g,Potato chips,20% Off,735,25.6,0.2,0.16666667,0
+2023-09-04,P069-Salted-Chips-60g,Potato chips,20% Off,616,22.4,0.2,0.16666667,0
+2023-09-04,P2224-Spicy-Chips-60g,Potato chips,20% Off,564,23.2,0.2,0.16666667,0
+2023-09-11,P103-Cola-600ml,Cola bottles,Base,620,45.0,0.0,0.06666667,0
+2023-09-11,P103-Zero-600ml,Cola bottles,Base,356,50.0,0.0,0.06666667,0
+2023-09-11,P069-Cola-600ml,Cola bottles,Base,517,44.0,0.0,0.06666667,0
+2023-09-11,P2224-Cola-600ml,Cola bottles,20% Off,615,33.6,0.2,0.0,0
+2023-09-11,P103-Classic-Chips-60g,Potato chips,Base,688,30.0,0.0,0.06666667,0
+2023-09-11,P103-Masala-Chips-60g,Potato chips,Base,545,32.0,0.0,0.06666667,0
+2023-09-11,P069-Salted-Chips-60g,Potato chips,20% Off,892,22.4,0.2,0.0,0
+2023-09-11,P2224-Spicy-Chips-60g,Potato chips,Base,379,29.0,0.0,0.06666667,0
+2023-09-18,P103-Cola-600ml,Cola bottles,20% Off,929,36.0,0.2,0.0,0
+2023-09-18,P103-Zero-600ml,Cola bottles,Base,332,50.0,0.0,0.06666667,0
+2023-09-18,P069-Cola-600ml,Cola bottles,Base,437,44.0,0.0,0.06666667,0
+2023-09-18,P2224-Cola-600ml,Cola bottles,Base,350,42.0,0.0,0.06666667,0
+2023-09-18,P103-Classic-Chips-60g,Potato chips,Base,743,30.0,0.0,0.06666667,0
+2023-09-18,P103-Masala-Chips-60g,Potato chips,10% Off,698,28.8,0.1,0.03333333,0
+2023-09-18,P069-Salted-Chips-60g,Potato chips,10% Off,607,25.2,0.1,0.03333333,0
+2023-09-18,P2224-Spicy-Chips-60g,Potato chips,Base,371,29.0,0.0,0.06666667,0
+2023-09-25,P103-Cola-600ml,Cola bottles,Base,458,45.0,0.0,0.06666667,0
+2023-09-25,P103-Zero-600ml,Cola bottles,Base,271,50.0,0.0,0.06666667,0
+2023-09-25,P069-Cola-600ml,Cola bottles,Base,486,44.0,0.0,0.06666667,0
+2023-09-25,P2224-Cola-600ml,Cola bottles,20% Off,496,33.6,0.2,0.0,0
+2023-09-25,P103-Classic-Chips-60g,Potato chips,Base,685,30.0,0.0,0.06666667,0
+2023-09-25,P103-Masala-Chips-60g,Potato chips,20% Off,914,25.6,0.2,0.0,0
+2023-09-25,P069-Salted-Chips-60g,Potato chips,Base,374,28.0,0.0,0.06666667,0
+2023-09-25,P2224-Spicy-Chips-60g,Potato chips,Base,391,29.0,0.0,0.06666667,0
+2023-10-02,P103-Cola-600ml,Cola bottles,Base,684,45.0,0.0,0.0,0
+2023-10-02,P103-Zero-600ml,Cola bottles,Base,342,50.0,0.0,0.0,0
+2023-10-02,P069-Cola-600ml,Cola bottles,Base,493,44.0,0.0,0.0,0
+2023-10-02,P2224-Cola-600ml,Cola bottles,Base,392,42.0,0.0,0.0,0
+2023-10-02,P103-Classic-Chips-60g,Potato chips,Base,800,30.0,0.0,0.03333333,0
+2023-10-02,P103-Masala-Chips-60g,Potato chips,Base,605,32.0,0.0,0.03333333,0
+2023-10-02,P069-Salted-Chips-60g,Potato chips,10% Off,744,25.2,0.1,0.0,0
+2023-10-02,P2224-Spicy-Chips-60g,Potato chips,Base,449,29.0,0.0,0.03333333,0
+2023-10-09,P103-Cola-600ml,Cola bottles,10% Off,670,40.5,0.1,0.03333333,0
+2023-10-09,P103-Zero-600ml,Cola bottles,Base,277,50.0,0.0,0.06666667,0
+2023-10-09,P069-Cola-600ml,Cola bottles,10% Off,610,39.6,0.1,0.03333333,0
+2023-10-09,P2224-Cola-600ml,Cola bottles,Base,327,42.0,0.0,0.06666667,0
+2023-10-09,P103-Classic-Chips-60g,Potato chips,10% Off,1009,27.0,0.1,0.06666667,0
+2023-10-09,P103-Masala-Chips-60g,Potato chips,Base,510,32.0,0.0,0.1,0
+2023-10-09,P069-Salted-Chips-60g,Potato chips,20% Off,631,22.4,0.2,0.03333333,0
+2023-10-09,P2224-Spicy-Chips-60g,Potato chips,Base,332,29.0,0.0,0.1,0
+2023-10-16,P103-Cola-600ml,Cola bottles,Base,610,45.0,0.0,0.03333333,1
+2023-10-16,P103-Zero-600ml,Cola bottles,Base,318,50.0,0.0,0.03333333,1
+2023-10-16,P069-Cola-600ml,Cola bottles,Base,488,44.0,0.0,0.03333333,1
+2023-10-16,P2224-Cola-600ml,Cola bottles,10% Off,478,37.8,0.1,0.0,1
+2023-10-16,P103-Classic-Chips-60g,Potato chips,Base,785,30.0,0.0,0.06666667,1
+2023-10-16,P103-Masala-Chips-60g,Potato chips,Base,569,32.0,0.0,0.06666667,1
+2023-10-16,P069-Salted-Chips-60g,Potato chips,20% Off,762,22.4,0.2,0.0,1
+2023-10-16,P2224-Spicy-Chips-60g,Potato chips,Base,428,29.0,0.0,0.06666667,1
+2023-10-23,P103-Cola-600ml,Cola bottles,Base,566,45.0,0.0,0.06666667,1
+2023-10-23,P103-Zero-600ml,Cola bottles,Base,289,50.0,0.0,0.06666667,1
+2023-10-23,P069-Cola-600ml,Cola bottles,Base,565,44.0,0.0,0.06666667,1
+2023-10-23,P2224-Cola-600ml,Cola bottles,20% Off,529,33.6,0.2,0.0,1
+2023-10-23,P103-Classic-Chips-60g,Potato chips,Base,731,30.0,0.0,0.03333333,1
+2023-10-23,P103-Masala-Chips-60g,Potato chips,Base,651,32.0,0.0,0.03333333,1
+2023-10-23,P069-Salted-Chips-60g,Potato chips,Base,428,28.0,0.0,0.03333333,1
+2023-10-23,P2224-Spicy-Chips-60g,Potato chips,10% Off,628,26.1,0.1,0.0,1
+2023-10-30,P103-Cola-600ml,Cola bottles,10% Off,847,40.5,0.1,0.0,1
+2023-10-30,P103-Zero-600ml,Cola bottles,Base,296,50.0,0.0,0.03333333,1
+2023-10-30,P069-Cola-600ml,Cola bottles,Base,538,44.0,0.0,0.03333333,1
+2023-10-30,P2224-Cola-600ml,Cola bottles,Base,403,42.0,0.0,0.03333333,1
+2023-10-30,P103-Classic-Chips-60g,Potato chips,Base,802,30.0,0.0,0.0,1
+2023-10-30,P103-Masala-Chips-60g,Potato chips,Base,732,32.0,0.0,0.0,1
+2023-10-30,P069-Salted-Chips-60g,Potato chips,Base,545,28.0,0.0,0.0,1
+2023-10-30,P2224-Spicy-Chips-60g,Potato chips,Base,497,29.0,0.0,0.0,1
+2023-11-06,P103-Cola-600ml,Cola bottles,Base,533,45.0,0.0,0.0,0
+2023-11-06,P103-Zero-600ml,Cola bottles,Base,288,50.0,0.0,0.0,0
+2023-11-06,P069-Cola-600ml,Cola bottles,Base,497,44.0,0.0,0.0,0
+2023-11-06,P2224-Cola-600ml,Cola bottles,Base,331,42.0,0.0,0.0,0
+2023-11-06,P103-Classic-Chips-60g,Potato chips,10% Off,870,27.0,0.1,0.06666667,0
+2023-11-06,P103-Masala-Chips-60g,Potato chips,10% Off,693,28.8,0.1,0.06666667,0
+2023-11-06,P069-Salted-Chips-60g,Potato chips,10% Off,608,25.2,0.1,0.06666667,0
+2023-11-06,P2224-Spicy-Chips-60g,Potato chips,Base,370,29.0,0.0,0.1,0
+2023-11-13,P103-Cola-600ml,Cola bottles,Base,507,45.0,0.0,0.06666667,0
+2023-11-13,P103-Zero-600ml,Cola bottles,Base,215,50.0,0.0,0.06666667,0
+2023-11-13,P069-Cola-600ml,Cola bottles,Base,429,44.0,0.0,0.06666667,0
+2023-11-13,P2224-Cola-600ml,Cola bottles,20% Off,445,33.6,0.2,0.0,0
+2023-11-13,P103-Classic-Chips-60g,Potato chips,Base,570,30.0,0.0,0.06666667,0
+2023-11-13,P103-Masala-Chips-60g,Potato chips,Base,472,32.0,0.0,0.06666667,0
+2023-11-13,P069-Salted-Chips-60g,Potato chips,20% Off,625,22.4,0.2,0.0,0
+2023-11-13,P2224-Spicy-Chips-60g,Potato chips,Base,296,29.0,0.0,0.06666667,0
+2023-11-20,P103-Cola-600ml,Cola bottles,Base,534,45.0,0.0,0.03333333,0
+2023-11-20,P103-Zero-600ml,Cola bottles,Base,283,50.0,0.0,0.03333333,0
+2023-11-20,P069-Cola-600ml,Cola bottles,Base,420,44.0,0.0,0.03333333,0
+2023-11-20,P2224-Cola-600ml,Cola bottles,10% Off,456,37.8,0.1,0.0,0
+2023-11-20,P103-Classic-Chips-60g,Potato chips,20% Off,1175,24.0,0.2,0.06666667,0
+2023-11-20,P103-Masala-Chips-60g,Potato chips,10% Off,636,28.8,0.1,0.1,0
+2023-11-20,P069-Salted-Chips-60g,Potato chips,Base,380,28.0,0.0,0.13333333,0
+2023-11-20,P2224-Spicy-Chips-60g,Potato chips,10% Off,450,26.1,0.1,0.1,0
+2023-11-27,P103-Cola-600ml,Cola bottles,Base,519,45.0,0.0,0.06666667,0
+2023-11-27,P103-Zero-600ml,Cola bottles,20% Off,495,40.0,0.2,0.0,0
+2023-11-27,P069-Cola-600ml,Cola bottles,Base,426,44.0,0.0,0.06666667,0
+2023-11-27,P2224-Cola-600ml,Cola bottles,Base,332,42.0,0.0,0.06666667,0
+2023-11-27,P103-Classic-Chips-60g,Potato chips,Base,581,30.0,0.0,0.06666667,0
+2023-11-27,P103-Masala-Chips-60g,Potato chips,20% Off,796,25.6,0.2,0.0,0
+2023-11-27,P069-Salted-Chips-60g,Potato chips,Base,457,28.0,0.0,0.06666667,0
+2023-11-27,P2224-Spicy-Chips-60g,Potato chips,Base,361,29.0,0.0,0.06666667,0
+2023-12-04,P103-Cola-600ml,Cola bottles,Base,500,45.0,0.0,0.0,0
+2023-12-04,P103-Zero-600ml,Cola bottles,Base,236,50.0,0.0,0.0,0
+2023-12-04,P069-Cola-600ml,Cola bottles,Base,476,44.0,0.0,0.0,0
+2023-12-04,P2224-Cola-600ml,Cola bottles,Base,365,42.0,0.0,0.0,0
+2023-12-04,P103-Classic-Chips-60g,Potato chips,Base,730,30.0,0.0,0.0,0
+2023-12-04,P103-Masala-Chips-60g,Potato chips,Base,517,32.0,0.0,0.0,0
+2023-12-04,P069-Salted-Chips-60g,Potato chips,Base,449,28.0,0.0,0.0,0
+2023-12-04,P2224-Spicy-Chips-60g,Potato chips,Base,374,29.0,0.0,0.0,0
+2023-12-11,P103-Cola-600ml,Cola bottles,Base,542,45.0,0.0,0.03333333,0
+2023-12-11,P103-Zero-600ml,Cola bottles,10% Off,357,45.0,0.1,0.0,0
+2023-12-11,P069-Cola-600ml,Cola bottles,Base,363,44.0,0.0,0.03333333,0
+2023-12-11,P2224-Cola-600ml,Cola bottles,Base,313,42.0,0.0,0.03333333,0
+2023-12-11,P103-Classic-Chips-60g,Potato chips,Base,533,30.0,0.0,0.06666667,0
+2023-12-11,P103-Masala-Chips-60g,Potato chips,20% Off,808,25.6,0.2,0.0,0
+2023-12-11,P069-Salted-Chips-60g,Potato chips,Base,340,28.0,0.0,0.06666667,0
+2023-12-11,P2224-Spicy-Chips-60g,Potato chips,Base,351,29.0,0.0,0.06666667,0
+2023-12-18,P103-Cola-600ml,Cola bottles,Base,595,45.0,0.0,0.03333333,0
+2023-12-18,P103-Zero-600ml,Cola bottles,Base,280,50.0,0.0,0.03333333,0
+2023-12-18,P069-Cola-600ml,Cola bottles,10% Off,730,39.6,0.1,0.0,0
+2023-12-18,P2224-Cola-600ml,Cola bottles,Base,377,42.0,0.0,0.03333333,0
+2023-12-18,P103-Classic-Chips-60g,Potato chips,Base,702,30.0,0.0,0.06666667,0
+2023-12-18,P103-Masala-Chips-60g,Potato chips,Base,471,32.0,0.0,0.06666667,0
+2023-12-18,P069-Salted-Chips-60g,Potato chips,10% Off,648,25.2,0.1,0.03333333,0
+2023-12-18,P2224-Spicy-Chips-60g,Potato chips,10% Off,544,26.1,0.1,0.03333333,0
+2023-12-25,P103-Cola-600ml,Cola bottles,20% Off,926,36.0,0.2,0.03333333,1
+2023-12-25,P103-Zero-600ml,Cola bottles,Base,318,50.0,0.0,0.1,1
+2023-12-25,P069-Cola-600ml,Cola bottles,Base,451,44.0,0.0,0.1,1
+2023-12-25,P2224-Cola-600ml,Cola bottles,10% Off,561,37.8,0.1,0.06666667,1
+2023-12-25,P103-Classic-Chips-60g,Potato chips,Base,738,30.0,0.0,0.1,1
+2023-12-25,P103-Masala-Chips-60g,Potato chips,10% Off,798,28.8,0.1,0.06666667,1
+2023-12-25,P069-Salted-Chips-60g,Potato chips,10% Off,631,25.2,0.1,0.06666667,1
+2023-12-25,P2224-Spicy-Chips-60g,Potato chips,10% Off,553,26.1,0.1,0.06666667,1
+2024-01-01,P103-Cola-600ml,Cola bottles,10% Off,796,41.51,0.1,0.0,1
+2024-01-01,P103-Zero-600ml,Cola bottles,Base,328,51.25,0.0,0.03333333,1
+2024-01-01,P069-Cola-600ml,Cola bottles,Base,469,45.1,0.0,0.03333333,1
+2024-01-01,P2224-Cola-600ml,Cola bottles,Base,446,43.05,0.0,0.03333333,1
+2024-01-01,P103-Classic-Chips-60g,Potato chips,Base,569,30.75,0.0,0.06666667,1
+2024-01-01,P103-Masala-Chips-60g,Potato chips,Base,543,32.8,0.0,0.06666667,1
+2024-01-01,P069-Salted-Chips-60g,Potato chips,20% Off,808,22.96,0.2,0.0,1
+2024-01-01,P2224-Spicy-Chips-60g,Potato chips,Base,346,29.72,0.0,0.06666667,1
+2024-01-08,P103-Cola-600ml,Cola bottles,Base,503,46.12,0.0,0.06666667,0
+2024-01-08,P103-Zero-600ml,Cola bottles,Base,319,51.25,0.0,0.06666667,0
+2024-01-08,P069-Cola-600ml,Cola bottles,Base,481,45.1,0.0,0.06666667,0
+2024-01-08,P2224-Cola-600ml,Cola bottles,20% Off,564,34.44,0.2,0.0,0
+2024-01-08,P103-Classic-Chips-60g,Potato chips,Base,747,30.75,0.0,0.06666667,0
+2024-01-08,P103-Masala-Chips-60g,Potato chips,10% Off,760,29.52,0.1,0.03333333,0
+2024-01-08,P069-Salted-Chips-60g,Potato chips,Base,402,28.7,0.0,0.06666667,0
+2024-01-08,P2224-Spicy-Chips-60g,Potato chips,10% Off,530,26.75,0.1,0.03333333,0
+2024-01-15,P103-Cola-600ml,Cola bottles,Base,653,46.12,0.0,0.0,0
+2024-01-15,P103-Zero-600ml,Cola bottles,Base,303,51.25,0.0,0.0,0
+2024-01-15,P069-Cola-600ml,Cola bottles,Base,470,45.1,0.0,0.0,0
+2024-01-15,P2224-Cola-600ml,Cola bottles,Base,339,43.05,0.0,0.0,0
+2024-01-15,P103-Classic-Chips-60g,Potato chips,Base,642,30.75,0.0,0.03333333,0
+2024-01-15,P103-Masala-Chips-60g,Potato chips,Base,544,32.8,0.0,0.03333333,0
+2024-01-15,P069-Salted-Chips-60g,Potato chips,10% Off,639,25.83,0.1,0.0,0
+2024-01-15,P2224-Spicy-Chips-60g,Potato chips,Base,380,29.72,0.0,0.03333333,0
+2024-01-22,P103-Cola-600ml,Cola bottles,10% Off,758,41.51,0.1,0.0,0
+2024-01-22,P103-Zero-600ml,Cola bottles,Base,381,51.25,0.0,0.03333333,0
+2024-01-22,P069-Cola-600ml,Cola bottles,Base,513,45.1,0.0,0.03333333,0
+2024-01-22,P2224-Cola-600ml,Cola bottles,Base,396,43.05,0.0,0.03333333,0
+2024-01-22,P103-Classic-Chips-60g,Potato chips,Base,674,30.75,0.0,0.03333333,0
+2024-01-22,P103-Masala-Chips-60g,Potato chips,Base,667,32.8,0.0,0.03333333,0
+2024-01-22,P069-Salted-Chips-60g,Potato chips,10% Off,697,25.83,0.1,0.0,0
+2024-01-22,P2224-Spicy-Chips-60g,Potato chips,Base,433,29.72,0.0,0.03333333,0
+2024-01-29,P103-Cola-600ml,Cola bottles,Base,658,46.12,0.0,0.03333333,0
+2024-01-29,P103-Zero-600ml,Cola bottles,Base,356,51.25,0.0,0.03333333,0
+2024-01-29,P069-Cola-600ml,Cola bottles,10% Off,715,40.59,0.1,0.0,0
+2024-01-29,P2224-Cola-600ml,Cola bottles,Base,439,43.05,0.0,0.03333333,0
+2024-01-29,P103-Classic-Chips-60g,Potato chips,10% Off,977,27.68,0.1,0.1,0
+2024-01-29,P103-Masala-Chips-60g,Potato chips,20% Off,841,26.24,0.2,0.06666667,0
+2024-01-29,P069-Salted-Chips-60g,Potato chips,10% Off,580,25.83,0.1,0.1,0
+2024-01-29,P2224-Spicy-Chips-60g,Potato chips,Base,325,29.72,0.0,0.13333333,0
+2024-02-05,P103-Cola-600ml,Cola bottles,Base,608,46.12,0.0,0.06666667,0
+2024-02-05,P103-Zero-600ml,Cola bottles,Base,329,51.25,0.0,0.06666667,0
+2024-02-05,P069-Cola-600ml,Cola bottles,Base,435,45.1,0.0,0.06666667,0
+2024-02-05,P2224-Cola-600ml,Cola bottles,20% Off,547,34.44,0.2,0.0,0
+2024-02-05,P103-Classic-Chips-60g,Potato chips,Base,709,30.75,0.0,0.0,0
+2024-02-05,P103-Masala-Chips-60g,Potato chips,Base,478,32.8,0.0,0.0,0
+2024-02-05,P069-Salted-Chips-60g,Potato chips,Base,447,28.7,0.0,0.0,0
+2024-02-05,P2224-Spicy-Chips-60g,Potato chips,Base,367,29.72,0.0,0.0,0
+2024-02-12,P103-Cola-600ml,Cola bottles,20% Off,846,36.9,0.2,0.06666667,0
+2024-02-12,P103-Zero-600ml,Cola bottles,Base,263,51.25,0.0,0.13333333,0
+2024-02-12,P069-Cola-600ml,Cola bottles,Base,415,45.1,0.0,0.13333333,0
+2024-02-12,P2224-Cola-600ml,Cola bottles,20% Off,486,34.44,0.2,0.06666667,0
+2024-02-12,P103-Classic-Chips-60g,Potato chips,Base,795,30.75,0.0,0.0,0
+2024-02-12,P103-Masala-Chips-60g,Potato chips,Base,589,32.8,0.0,0.0,0
+2024-02-12,P069-Salted-Chips-60g,Potato chips,Base,482,28.7,0.0,0.0,0
+2024-02-12,P2224-Spicy-Chips-60g,Potato chips,Base,429,29.72,0.0,0.0,0
+2024-02-19,P103-Cola-600ml,Cola bottles,Base,571,46.12,0.0,0.03333333,0
+2024-02-19,P103-Zero-600ml,Cola bottles,Base,285,51.25,0.0,0.03333333,0
+2024-02-19,P069-Cola-600ml,Cola bottles,10% Off,740,40.59,0.1,0.0,0
+2024-02-19,P2224-Cola-600ml,Cola bottles,Base,367,43.05,0.0,0.03333333,0
+2024-02-19,P103-Classic-Chips-60g,Potato chips,Base,797,30.75,0.0,0.03333333,0
+2024-02-19,P103-Masala-Chips-60g,Potato chips,Base,621,32.8,0.0,0.03333333,0
+2024-02-19,P069-Salted-Chips-60g,Potato chips,Base,489,28.7,0.0,0.03333333,0
+2024-02-19,P2224-Spicy-Chips-60g,Potato chips,10% Off,532,26.75,0.1,0.0,0
+2024-02-26,P103-Cola-600ml,Cola bottles,20% Off,1131,36.9,0.2,0.06666667,0
+2024-02-26,P103-Zero-600ml,Cola bottles,Base,273,51.25,0.0,0.13333333,0
+2024-02-26,P069-Cola-600ml,Cola bottles,Base,412,45.1,0.0,0.13333333,0
+2024-02-26,P2224-Cola-600ml,Cola bottles,20% Off,523,34.44,0.2,0.06666667,0
+2024-02-26,P103-Classic-Chips-60g,Potato chips,Base,700,30.75,0.0,0.03333333,0
+2024-02-26,P103-Masala-Chips-60g,Potato chips,Base,575,32.8,0.0,0.03333333,0
+2024-02-26,P069-Salted-Chips-60g,Potato chips,10% Off,679,25.83,0.1,0.0,0
+2024-02-26,P2224-Spicy-Chips-60g,Potato chips,Base,409,29.72,0.0,0.03333333,0
+2024-03-04,P103-Cola-600ml,Cola bottles,Base,501,46.12,0.0,0.13333333,0
+2024-03-04,P103-Zero-600ml,Cola bottles,10% Off,446,46.12,0.1,0.1,0
+2024-03-04,P069-Cola-600ml,Cola bottles,10% Off,675,40.59,0.1,0.1,0
+2024-03-04,P2224-Cola-600ml,Cola bottles,20% Off,518,34.44,0.2,0.06666667,0
+2024-03-04,P103-Classic-Chips-60g,Potato chips,Base,823,30.75,0.0,0.03333333,0
+2024-03-04,P103-Masala-Chips-60g,Potato chips,Base,536,32.8,0.0,0.03333333,0
+2024-03-04,P069-Salted-Chips-60g,Potato chips,Base,462,28.7,0.0,0.03333333,0
+2024-03-04,P2224-Spicy-Chips-60g,Potato chips,10% Off,537,26.75,0.1,0.0,0
+2024-03-11,P103-Cola-600ml,Cola bottles,Base,607,46.12,0.0,0.0,0
+2024-03-11,P103-Zero-600ml,Cola bottles,Base,350,51.25,0.0,0.0,0
+2024-03-11,P069-Cola-600ml,Cola bottles,Base,611,45.1,0.0,0.0,0
+2024-03-11,P2224-Cola-600ml,Cola bottles,Base,352,43.05,0.0,0.0,0
+2024-03-11,P103-Classic-Chips-60g,Potato chips,Base,787,30.75,0.0,0.03333333,0
+2024-03-11,P103-Masala-Chips-60g,Potato chips,Base,586,32.8,0.0,0.03333333,0
+2024-03-11,P069-Salted-Chips-60g,Potato chips,10% Off,771,25.83,0.1,0.0,0
+2024-03-11,P2224-Spicy-Chips-60g,Potato chips,Base,332,29.72,0.0,0.03333333,0
+2024-03-18,P103-Cola-600ml,Cola bottles,20% Off,1316,36.9,0.2,0.0,1
+2024-03-18,P103-Zero-600ml,Cola bottles,Base,359,51.25,0.0,0.06666667,1
+2024-03-18,P069-Cola-600ml,Cola bottles,Base,680,45.1,0.0,0.06666667,1
+2024-03-18,P2224-Cola-600ml,Cola bottles,Base,479,43.05,0.0,0.06666667,1
+2024-03-18,P103-Classic-Chips-60g,Potato chips,Base,940,30.75,0.0,0.0,1
+2024-03-18,P103-Masala-Chips-60g,Potato chips,Base,725,32.8,0.0,0.0,1
+2024-03-18,P069-Salted-Chips-60g,Potato chips,Base,617,28.7,0.0,0.0,1
+2024-03-18,P2224-Spicy-Chips-60g,Potato chips,Base,528,29.72,0.0,0.0,1
+2024-03-25,P103-Cola-600ml,Cola bottles,Base,655,46.12,0.0,0.03333333,0
+2024-03-25,P103-Zero-600ml,Cola bottles,Base,401,51.25,0.0,0.03333333,0
+2024-03-25,P069-Cola-600ml,Cola bottles,10% Off,779,40.59,0.1,0.0,0
+2024-03-25,P2224-Cola-600ml,Cola bottles,Base,496,43.05,0.0,0.03333333,0
+2024-03-25,P103-Classic-Chips-60g,Potato chips,Base,656,30.75,0.0,0.1,0
+2024-03-25,P103-Masala-Chips-60g,Potato chips,10% Off,820,29.52,0.1,0.06666667,0
+2024-03-25,P069-Salted-Chips-60g,Potato chips,10% Off,582,25.83,0.1,0.06666667,0
+2024-03-25,P2224-Spicy-Chips-60g,Potato chips,10% Off,427,26.75,0.1,0.06666667,0
+2024-04-01,P103-Cola-600ml,Cola bottles,10% Off,924,41.51,0.1,0.03333333,0
+2024-04-01,P103-Zero-600ml,Cola bottles,10% Off,558,46.12,0.1,0.03333333,0
+2024-04-01,P069-Cola-600ml,Cola bottles,Base,612,45.1,0.0,0.06666667,0
+2024-04-01,P2224-Cola-600ml,Cola bottles,Base,444,43.05,0.0,0.06666667,0
+2024-04-01,P103-Classic-Chips-60g,Potato chips,Base,819,30.75,0.0,0.06666667,0
+2024-04-01,P103-Masala-Chips-60g,Potato chips,20% Off,1009,26.24,0.2,0.0,0
+2024-04-01,P069-Salted-Chips-60g,Potato chips,Base,439,28.7,0.0,0.06666667,0
+2024-04-01,P2224-Spicy-Chips-60g,Potato chips,Base,390,29.72,0.0,0.06666667,0
+2024-04-08,P103-Cola-600ml,Cola bottles,Base,576,46.12,0.0,0.1,0
+2024-04-08,P103-Zero-600ml,Cola bottles,10% Off,513,46.12,0.1,0.06666667,0
+2024-04-08,P069-Cola-600ml,Cola bottles,20% Off,968,36.08,0.2,0.03333333,0
+2024-04-08,P2224-Cola-600ml,Cola bottles,Base,392,43.05,0.0,0.1,0
+2024-04-08,P103-Classic-Chips-60g,Potato chips,20% Off,1215,24.6,0.2,0.06666667,0
+2024-04-08,P103-Masala-Chips-60g,Potato chips,10% Off,696,29.52,0.1,0.1,0
+2024-04-08,P069-Salted-Chips-60g,Potato chips,10% Off,680,25.83,0.1,0.1,0
+2024-04-08,P2224-Spicy-Chips-60g,Potato chips,Base,350,29.72,0.0,0.13333333,0
+2024-04-15,P103-Cola-600ml,Cola bottles,10% Off,831,41.51,0.1,0.03333333,0
+2024-04-15,P103-Zero-600ml,Cola bottles,Base,399,51.25,0.0,0.06666667,0
+2024-04-15,P069-Cola-600ml,Cola bottles,Base,543,45.1,0.0,0.06666667,0
+2024-04-15,P2224-Cola-600ml,Cola bottles,10% Off,564,38.74,0.1,0.03333333,0
+2024-04-15,P103-Classic-Chips-60g,Potato chips,10% Off,863,27.68,0.1,0.03333333,0
+2024-04-15,P103-Masala-Chips-60g,Potato chips,Base,499,32.8,0.0,0.06666667,0
+2024-04-15,P069-Salted-Chips-60g,Potato chips,10% Off,584,25.83,0.1,0.03333333,0
+2024-04-15,P2224-Spicy-Chips-60g,Potato chips,Base,350,29.72,0.0,0.06666667,0
+2024-04-22,P103-Cola-600ml,Cola bottles,Base,619,46.12,0.0,0.1,0
+2024-04-22,P103-Zero-600ml,Cola bottles,20% Off,591,41.0,0.2,0.03333333,0
+2024-04-22,P069-Cola-600ml,Cola bottles,10% Off,732,40.59,0.1,0.06666667,0
+2024-04-22,P2224-Cola-600ml,Cola bottles,Base,379,43.05,0.0,0.1,0
+2024-04-22,P103-Classic-Chips-60g,Potato chips,Base,687,30.75,0.0,0.06666667,0
+2024-04-22,P103-Masala-Chips-60g,Potato chips,10% Off,704,29.52,0.1,0.03333333,0
+2024-04-22,P069-Salted-Chips-60g,Potato chips,10% Off,643,25.83,0.1,0.03333333,0
+2024-04-22,P2224-Spicy-Chips-60g,Potato chips,Base,419,29.72,0.0,0.06666667,0
+2024-04-29,P103-Cola-600ml,Cola bottles,20% Off,980,36.9,0.2,0.0,0
+2024-04-29,P103-Zero-600ml,Cola bottles,Base,384,51.25,0.0,0.06666667,0
+2024-04-29,P069-Cola-600ml,Cola bottles,Base,517,45.1,0.0,0.06666667,0
+2024-04-29,P2224-Cola-600ml,Cola bottles,Base,412,43.05,0.0,0.06666667,0
+2024-04-29,P103-Classic-Chips-60g,Potato chips,Base,558,30.75,0.0,0.13333333,0
+2024-04-29,P103-Masala-Chips-60g,Potato chips,20% Off,887,26.24,0.2,0.06666667,0
+2024-04-29,P069-Salted-Chips-60g,Potato chips,10% Off,498,25.83,0.1,0.1,0
+2024-04-29,P2224-Spicy-Chips-60g,Potato chips,10% Off,455,26.75,0.1,0.1,0
+2024-05-06,P103-Cola-600ml,Cola bottles,10% Off,891,41.51,0.1,0.0,0
+2024-05-06,P103-Zero-600ml,Cola bottles,Base,392,51.25,0.0,0.03333333,0
+2024-05-06,P069-Cola-600ml,Cola bottles,Base,726,45.1,0.0,0.03333333,0
+2024-05-06,P2224-Cola-600ml,Cola bottles,Base,431,43.05,0.0,0.03333333,0
+2024-05-06,P103-Classic-Chips-60g,Potato chips,Base,636,30.75,0.0,0.0,0
+2024-05-06,P103-Masala-Chips-60g,Potato chips,Base,542,32.8,0.0,0.0,0
+2024-05-06,P069-Salted-Chips-60g,Potato chips,Base,484,28.7,0.0,0.0,0
+2024-05-06,P2224-Spicy-Chips-60g,Potato chips,Base,426,29.72,0.0,0.0,0
+2024-05-13,P103-Cola-600ml,Cola bottles,Base,650,46.12,0.0,0.16666667,0
+2024-05-13,P103-Zero-600ml,Cola bottles,20% Off,536,41.0,0.2,0.1,0
+2024-05-13,P069-Cola-600ml,Cola bottles,10% Off,747,40.59,0.1,0.13333333,0
+2024-05-13,P2224-Cola-600ml,Cola bottles,20% Off,542,34.44,0.2,0.1,0
+2024-05-13,P103-Classic-Chips-60g,Potato chips,Base,786,30.75,0.0,0.0,0
+2024-05-13,P103-Masala-Chips-60g,Potato chips,Base,559,32.8,0.0,0.0,0
+2024-05-13,P069-Salted-Chips-60g,Potato chips,Base,536,28.7,0.0,0.0,0
+2024-05-13,P2224-Spicy-Chips-60g,Potato chips,Base,482,29.72,0.0,0.0,0
+2024-05-20,P103-Cola-600ml,Cola bottles,Base,685,46.12,0.0,0.06666667,0
+2024-05-20,P103-Zero-600ml,Cola bottles,20% Off,534,41.0,0.2,0.0,0
+2024-05-20,P069-Cola-600ml,Cola bottles,Base,713,45.1,0.0,0.06666667,0
+2024-05-20,P2224-Cola-600ml,Cola bottles,Base,468,43.05,0.0,0.06666667,0
+2024-05-20,P103-Classic-Chips-60g,Potato chips,10% Off,938,27.68,0.1,0.1,0
+2024-05-20,P103-Masala-Chips-60g,Potato chips,20% Off,969,26.24,0.2,0.06666667,0
+2024-05-20,P069-Salted-Chips-60g,Potato chips,10% Off,664,25.83,0.1,0.1,0
+2024-05-20,P2224-Spicy-Chips-60g,Potato chips,Base,381,29.72,0.0,0.13333333,0
+2024-05-27,P103-Cola-600ml,Cola bottles,10% Off,979,41.51,0.1,0.06666667,0
+2024-05-27,P103-Zero-600ml,Cola bottles,Base,288,51.25,0.0,0.1,0
+2024-05-27,P069-Cola-600ml,Cola bottles,10% Off,809,40.59,0.1,0.06666667,0
+2024-05-27,P2224-Cola-600ml,Cola bottles,10% Off,622,38.74,0.1,0.06666667,0
+2024-05-27,P103-Classic-Chips-60g,Potato chips,10% Off,1037,27.68,0.1,0.03333333,0
+2024-05-27,P103-Masala-Chips-60g,Potato chips,Base,504,32.8,0.0,0.06666667,0
+2024-05-27,P069-Salted-Chips-60g,Potato chips,Base,496,28.7,0.0,0.06666667,0
+2024-05-27,P2224-Spicy-Chips-60g,Potato chips,10% Off,528,26.75,0.1,0.03333333,0
+2024-06-03,P103-Cola-600ml,Cola bottles,Base,610,46.12,0.0,0.03333333,0
+2024-06-03,P103-Zero-600ml,Cola bottles,10% Off,483,46.12,0.1,0.0,0
+2024-06-03,P069-Cola-600ml,Cola bottles,Base,603,45.1,0.0,0.03333333,0
+2024-06-03,P2224-Cola-600ml,Cola bottles,Base,500,43.05,0.0,0.03333333,0
+2024-06-03,P103-Classic-Chips-60g,Potato chips,Base,585,30.75,0.0,0.06666667,0
+2024-06-03,P103-Masala-Chips-60g,Potato chips,20% Off,1012,26.24,0.2,0.0,0
+2024-06-03,P069-Salted-Chips-60g,Potato chips,Base,439,28.7,0.0,0.06666667,0
+2024-06-03,P2224-Spicy-Chips-60g,Potato chips,Base,364,29.72,0.0,0.06666667,0
+2024-06-10,P103-Cola-600ml,Cola bottles,10% Off,930,41.51,0.1,0.0,0
+2024-06-10,P103-Zero-600ml,Cola bottles,Base,369,51.25,0.0,0.03333333,0
+2024-06-10,P069-Cola-600ml,Cola bottles,Base,639,45.1,0.0,0.03333333,0
+2024-06-10,P2224-Cola-600ml,Cola bottles,Base,410,43.05,0.0,0.03333333,0
+2024-06-10,P103-Classic-Chips-60g,Potato chips,Base,798,30.75,0.0,0.0,0
+2024-06-10,P103-Masala-Chips-60g,Potato chips,Base,631,32.8,0.0,0.0,0
+2024-06-10,P069-Salted-Chips-60g,Potato chips,Base,522,28.7,0.0,0.0,0
+2024-06-10,P2224-Spicy-Chips-60g,Potato chips,Base,442,29.72,0.0,0.0,0
+2024-06-17,P103-Cola-600ml,Cola bottles,20% Off,1000,36.9,0.2,0.06666667,0
+2024-06-17,P103-Zero-600ml,Cola bottles,10% Off,460,46.12,0.1,0.1,0
+2024-06-17,P069-Cola-600ml,Cola bottles,Base,548,45.1,0.0,0.13333333,0
+2024-06-17,P2224-Cola-600ml,Cola bottles,10% Off,563,38.74,0.1,0.1,0
+2024-06-17,P103-Classic-Chips-60g,Potato chips,10% Off,1041,27.68,0.1,0.06666667,0
+2024-06-17,P103-Masala-Chips-60g,Potato chips,20% Off,800,26.24,0.2,0.03333333,0
+2024-06-17,P069-Salted-Chips-60g,Potato chips,Base,388,28.7,0.0,0.1,0
+2024-06-17,P2224-Spicy-Chips-60g,Potato chips,Base,379,29.72,0.0,0.1,0
+2024-06-24,P103-Cola-600ml,Cola bottles,20% Off,850,36.9,0.2,0.0,0
+2024-06-24,P103-Zero-600ml,Cola bottles,Base,388,51.25,0.0,0.06666667,0
+2024-06-24,P069-Cola-600ml,Cola bottles,Base,592,45.1,0.0,0.06666667,0
+2024-06-24,P2224-Cola-600ml,Cola bottles,Base,409,43.05,0.0,0.06666667,0
+2024-06-24,P103-Classic-Chips-60g,Potato chips,20% Off,1376,24.6,0.2,0.0,0
+2024-06-24,P103-Masala-Chips-60g,Potato chips,Base,485,32.8,0.0,0.06666667,0
+2024-06-24,P069-Salted-Chips-60g,Potato chips,Base,403,28.7,0.0,0.06666667,0
+2024-06-24,P2224-Spicy-Chips-60g,Potato chips,Base,335,29.72,0.0,0.06666667,0
+2024-07-01,P103-Cola-600ml,Cola bottles,Base,622,46.12,0.0,0.1,0
+2024-07-01,P103-Zero-600ml,Cola bottles,20% Off,575,41.0,0.2,0.03333333,0
+2024-07-01,P069-Cola-600ml,Cola bottles,10% Off,743,40.59,0.1,0.06666667,0
+2024-07-01,P2224-Cola-600ml,Cola bottles,Base,425,43.05,0.0,0.1,0
+2024-07-01,P103-Classic-Chips-60g,Potato chips,10% Off,1079,27.68,0.1,0.0,0
+2024-07-01,P103-Masala-Chips-60g,Potato chips,Base,594,32.8,0.0,0.03333333,0
+2024-07-01,P069-Salted-Chips-60g,Potato chips,Base,506,28.7,0.0,0.03333333,0
+2024-07-01,P2224-Spicy-Chips-60g,Potato chips,Base,464,29.72,0.0,0.03333333,0
+2024-07-08,P103-Cola-600ml,Cola bottles,10% Off,856,41.51,0.1,0.03333333,0
+2024-07-08,P103-Zero-600ml,Cola bottles,10% Off,384,46.12,0.1,0.03333333,0
+2024-07-08,P069-Cola-600ml,Cola bottles,Base,544,45.1,0.0,0.06666667,0
+2024-07-08,P2224-Cola-600ml,Cola bottles,Base,444,43.05,0.0,0.06666667,0
+2024-07-08,P103-Classic-Chips-60g,Potato chips,Base,823,30.75,0.0,0.03333333,0
+2024-07-08,P103-Masala-Chips-60g,Potato chips,Base,597,32.8,0.0,0.03333333,0
+2024-07-08,P069-Salted-Chips-60g,Potato chips,Base,495,28.7,0.0,0.03333333,0
+2024-07-08,P2224-Spicy-Chips-60g,Potato chips,10% Off,574,26.75,0.1,0.0,0
+2024-07-15,P103-Cola-600ml,Cola bottles,Base,588,46.12,0.0,0.06666667,0
+2024-07-15,P103-Zero-600ml,Cola bottles,20% Off,487,41.0,0.2,0.0,0
+2024-07-15,P069-Cola-600ml,Cola bottles,Base,561,45.1,0.0,0.06666667,0
+2024-07-15,P2224-Cola-600ml,Cola bottles,Base,415,43.05,0.0,0.06666667,0
+2024-07-15,P103-Classic-Chips-60g,Potato chips,Base,829,30.75,0.0,0.0,0
+2024-07-15,P103-Masala-Chips-60g,Potato chips,Base,579,32.8,0.0,0.0,0
+2024-07-15,P069-Salted-Chips-60g,Potato chips,Base,502,28.7,0.0,0.0,0
+2024-07-15,P2224-Spicy-Chips-60g,Potato chips,Base,437,29.72,0.0,0.0,0
+2024-07-22,P103-Cola-600ml,Cola bottles,10% Off,921,41.51,0.1,0.06666667,0
+2024-07-22,P103-Zero-600ml,Cola bottles,10% Off,435,46.12,0.1,0.06666667,0
+2024-07-22,P069-Cola-600ml,Cola bottles,10% Off,805,40.59,0.1,0.06666667,0
+2024-07-22,P2224-Cola-600ml,Cola bottles,Base,453,43.05,0.0,0.1,0
+2024-07-22,P103-Classic-Chips-60g,Potato chips,Base,743,30.75,0.0,0.13333333,0
+2024-07-22,P103-Masala-Chips-60g,Potato chips,20% Off,847,26.24,0.2,0.06666667,0
+2024-07-22,P069-Salted-Chips-60g,Potato chips,Base,416,28.7,0.0,0.13333333,0
+2024-07-22,P2224-Spicy-Chips-60g,Potato chips,20% Off,688,23.78,0.2,0.06666667,0
+2024-07-29,P103-Cola-600ml,Cola bottles,Base,693,46.12,0.0,0.03333333,0
+2024-07-29,P103-Zero-600ml,Cola bottles,Base,341,51.25,0.0,0.03333333,0
+2024-07-29,P069-Cola-600ml,Cola bottles,10% Off,816,40.59,0.1,0.0,0
+2024-07-29,P2224-Cola-600ml,Cola bottles,Base,464,43.05,0.0,0.03333333,0
+2024-07-29,P103-Classic-Chips-60g,Potato chips,Base,661,30.75,0.0,0.1,0
+2024-07-29,P103-Masala-Chips-60g,Potato chips,Base,482,32.8,0.0,0.1,0
+2024-07-29,P069-Salted-Chips-60g,Potato chips,10% Off,575,25.83,0.1,0.06666667,0
+2024-07-29,P2224-Spicy-Chips-60g,Potato chips,20% Off,631,23.78,0.2,0.03333333,0
+2024-08-05,P103-Cola-600ml,Cola bottles,Base,737,46.12,0.0,0.06666667,0
+2024-08-05,P103-Zero-600ml,Cola bottles,10% Off,498,46.12,0.1,0.03333333,0
+2024-08-05,P069-Cola-600ml,Cola bottles,Base,490,45.1,0.0,0.06666667,0
+2024-08-05,P2224-Cola-600ml,Cola bottles,10% Off,582,38.74,0.1,0.03333333,0
+2024-08-05,P103-Classic-Chips-60g,Potato chips,10% Off,1248,27.68,0.1,0.0,0
+2024-08-05,P103-Masala-Chips-60g,Potato chips,Base,619,32.8,0.0,0.03333333,0
+2024-08-05,P069-Salted-Chips-60g,Potato chips,Base,484,28.7,0.0,0.03333333,0
+2024-08-05,P2224-Spicy-Chips-60g,Potato chips,Base,362,29.72,0.0,0.03333333,0
+2024-08-12,P103-Cola-600ml,Cola bottles,Base,734,46.12,0.0,0.06666667,0
+2024-08-12,P103-Zero-600ml,Cola bottles,Base,319,51.25,0.0,0.06666667,0
+2024-08-12,P069-Cola-600ml,Cola bottles,Base,544,45.1,0.0,0.06666667,0
+2024-08-12,P2224-Cola-600ml,Cola bottles,20% Off,627,34.44,0.2,0.0,0
+2024-08-12,P103-Classic-Chips-60g,Potato chips,Base,709,30.75,0.0,0.1,0
+2024-08-12,P103-Masala-Chips-60g,Potato chips,Base,534,32.8,0.0,0.1,0
+2024-08-12,P069-Salted-Chips-60g,Potato chips,10% Off,612,25.83,0.1,0.06666667,0
+2024-08-12,P2224-Spicy-Chips-60g,Potato chips,20% Off,686,23.78,0.2,0.03333333,0
+2024-08-19,P103-Cola-600ml,Cola bottles,Base,655,46.12,0.0,0.06666667,1
+2024-08-19,P103-Zero-600ml,Cola bottles,20% Off,474,41.0,0.2,0.0,1
+2024-08-19,P069-Cola-600ml,Cola bottles,Base,517,45.1,0.0,0.06666667,1
+2024-08-19,P2224-Cola-600ml,Cola bottles,Base,338,43.05,0.0,0.06666667,1
+2024-08-19,P103-Classic-Chips-60g,Potato chips,Base,791,30.75,0.0,0.0,1
+2024-08-19,P103-Masala-Chips-60g,Potato chips,Base,709,32.8,0.0,0.0,1
+2024-08-19,P069-Salted-Chips-60g,Potato chips,Base,498,28.7,0.0,0.0,1
+2024-08-19,P2224-Spicy-Chips-60g,Potato chips,Base,448,29.72,0.0,0.0,1
+2024-08-26,P103-Cola-600ml,Cola bottles,Base,568,46.12,0.0,0.03333333,0
+2024-08-26,P103-Zero-600ml,Cola bottles,Base,258,51.25,0.0,0.03333333,0
+2024-08-26,P069-Cola-600ml,Cola bottles,10% Off,676,40.59,0.1,0.0,0
+2024-08-26,P2224-Cola-600ml,Cola bottles,Base,365,43.05,0.0,0.03333333,0
+2024-08-26,P103-Classic-Chips-60g,Potato chips,Base,825,30.75,0.0,0.0,0
+2024-08-26,P103-Masala-Chips-60g,Potato chips,Base,540,32.8,0.0,0.0,0
+2024-08-26,P069-Salted-Chips-60g,Potato chips,Base,493,28.7,0.0,0.0,0
+2024-08-26,P2224-Spicy-Chips-60g,Potato chips,Base,383,29.72,0.0,0.0,0
+2024-09-02,P103-Cola-600ml,Cola bottles,10% Off,840,41.51,0.1,0.03333333,0
+2024-09-02,P103-Zero-600ml,Cola bottles,Base,286,51.25,0.0,0.06666667,0
+2024-09-02,P069-Cola-600ml,Cola bottles,10% Off,698,40.59,0.1,0.03333333,0
+2024-09-02,P2224-Cola-600ml,Cola bottles,Base,380,43.05,0.0,0.06666667,0
+2024-09-02,P103-Classic-Chips-60g,Potato chips,20% Off,1435,24.6,0.2,0.0,0
+2024-09-02,P103-Masala-Chips-60g,Potato chips,Base,605,32.8,0.0,0.06666667,0
+2024-09-02,P069-Salted-Chips-60g,Potato chips,Base,497,28.7,0.0,0.06666667,0
+2024-09-02,P2224-Spicy-Chips-60g,Potato chips,Base,456,29.72,0.0,0.06666667,0
+2024-09-09,P103-Cola-600ml,Cola bottles,10% Off,744,41.51,0.1,0.1,0
+2024-09-09,P103-Zero-600ml,Cola bottles,10% Off,391,46.12,0.1,0.1,0
+2024-09-09,P069-Cola-600ml,Cola bottles,10% Off,664,40.59,0.1,0.1,0
+2024-09-09,P2224-Cola-600ml,Cola bottles,10% Off,443,38.74,0.1,0.1,0
+2024-09-09,P103-Classic-Chips-60g,Potato chips,Base,545,30.75,0.0,0.13333333,0
+2024-09-09,P103-Masala-Chips-60g,Potato chips,20% Off,943,26.24,0.2,0.06666667,0
+2024-09-09,P069-Salted-Chips-60g,Potato chips,20% Off,675,22.96,0.2,0.06666667,0
+2024-09-09,P2224-Spicy-Chips-60g,Potato chips,Base,349,29.72,0.0,0.13333333,0
+2024-09-16,P103-Cola-600ml,Cola bottles,Base,551,46.12,0.0,0.1,0
+2024-09-16,P103-Zero-600ml,Cola bottles,10% Off,322,46.12,0.1,0.06666667,0
+2024-09-16,P069-Cola-600ml,Cola bottles,Base,424,45.1,0.0,0.1,0
+2024-09-16,P2224-Cola-600ml,Cola bottles,20% Off,526,34.44,0.2,0.03333333,0
+2024-09-16,P103-Classic-Chips-60g,Potato chips,10% Off,1012,27.68,0.1,0.06666667,0
+2024-09-16,P103-Masala-Chips-60g,Potato chips,10% Off,607,29.52,0.1,0.06666667,0
+2024-09-16,P069-Salted-Chips-60g,Potato chips,10% Off,577,25.83,0.1,0.06666667,0
+2024-09-16,P2224-Spicy-Chips-60g,Potato chips,Base,403,29.72,0.0,0.1,0
+2024-09-23,P103-Cola-600ml,Cola bottles,Base,620,46.12,0.0,0.0,0
+2024-09-23,P103-Zero-600ml,Cola bottles,Base,270,51.25,0.0,0.0,0
+2024-09-23,P069-Cola-600ml,Cola bottles,Base,495,45.1,0.0,0.0,0
+2024-09-23,P2224-Cola-600ml,Cola bottles,Base,381,43.05,0.0,0.0,0
+2024-09-23,P103-Classic-Chips-60g,Potato chips,Base,714,30.75,0.0,0.06666667,0
+2024-09-23,P103-Masala-Chips-60g,Potato chips,Base,473,32.8,0.0,0.06666667,0
+2024-09-23,P069-Salted-Chips-60g,Potato chips,10% Off,638,25.83,0.1,0.03333333,0
+2024-09-23,P2224-Spicy-Chips-60g,Potato chips,10% Off,560,26.75,0.1,0.03333333,0
+2024-09-30,P103-Cola-600ml,Cola bottles,Base,498,46.12,0.0,0.03333333,0
+2024-09-30,P103-Zero-600ml,Cola bottles,10% Off,381,46.12,0.1,0.0,0
+2024-09-30,P069-Cola-600ml,Cola bottles,Base,450,45.1,0.0,0.03333333,0
+2024-09-30,P2224-Cola-600ml,Cola bottles,Base,352,43.05,0.0,0.03333333,0
+2024-09-30,P103-Classic-Chips-60g,Potato chips,Base,640,30.75,0.0,0.03333333,0
+2024-09-30,P103-Masala-Chips-60g,Potato chips,Base,535,32.8,0.0,0.03333333,0
+2024-09-30,P069-Salted-Chips-60g,Potato chips,10% Off,542,25.83,0.1,0.0,0
+2024-09-30,P2224-Spicy-Chips-60g,Potato chips,Base,405,29.72,0.0,0.03333333,0
+2024-10-07,P103-Cola-600ml,Cola bottles,Base,649,46.12,0.0,0.0,0
+2024-10-07,P103-Zero-600ml,Cola bottles,Base,384,51.25,0.0,0.0,0
+2024-10-07,P069-Cola-600ml,Cola bottles,Base,523,45.1,0.0,0.0,0
+2024-10-07,P2224-Cola-600ml,Cola bottles,Base,402,43.05,0.0,0.0,0
+2024-10-07,P103-Classic-Chips-60g,Potato chips,Base,707,30.75,0.0,0.0,0
+2024-10-07,P103-Masala-Chips-60g,Potato chips,Base,561,32.8,0.0,0.0,0
+2024-10-07,P069-Salted-Chips-60g,Potato chips,Base,485,28.7,0.0,0.0,0
+2024-10-07,P2224-Spicy-Chips-60g,Potato chips,Base,357,29.72,0.0,0.0,0
+2024-10-14,P103-Cola-600ml,Cola bottles,Base,655,46.12,0.0,0.1,1
+2024-10-14,P103-Zero-600ml,Cola bottles,20% Off,569,41.0,0.2,0.03333333,1
+2024-10-14,P069-Cola-600ml,Cola bottles,Base,569,45.1,0.0,0.1,1
+2024-10-14,P2224-Cola-600ml,Cola bottles,10% Off,483,38.74,0.1,0.06666667,1
+2024-10-14,P103-Classic-Chips-60g,Potato chips,Base,695,30.75,0.0,0.13333333,1
+2024-10-14,P103-Masala-Chips-60g,Potato chips,Base,500,32.8,0.0,0.13333333,1
+2024-10-14,P069-Salted-Chips-60g,Potato chips,20% Off,786,22.96,0.2,0.06666667,1
+2024-10-14,P2224-Spicy-Chips-60g,Potato chips,20% Off,612,23.78,0.2,0.06666667,1
+2024-10-21,P103-Cola-600ml,Cola bottles,20% Off,1053,36.9,0.2,0.0,1
+2024-10-21,P103-Zero-600ml,Cola bottles,Base,285,51.25,0.0,0.06666667,1
+2024-10-21,P069-Cola-600ml,Cola bottles,Base,521,45.1,0.0,0.06666667,1
+2024-10-21,P2224-Cola-600ml,Cola bottles,Base,304,43.05,0.0,0.06666667,1
+2024-10-21,P103-Classic-Chips-60g,Potato chips,20% Off,1297,24.6,0.2,0.03333333,1
+2024-10-21,P103-Masala-Chips-60g,Potato chips,10% Off,715,29.52,0.1,0.06666667,1
+2024-10-21,P069-Salted-Chips-60g,Potato chips,Base,415,28.7,0.0,0.1,1
+2024-10-21,P2224-Spicy-Chips-60g,Potato chips,Base,350,29.72,0.0,0.1,1
+2024-10-28,P103-Cola-600ml,Cola bottles,Base,526,46.12,0.0,0.06666667,1
+2024-10-28,P103-Zero-600ml,Cola bottles,10% Off,453,46.12,0.1,0.03333333,1
+2024-10-28,P069-Cola-600ml,Cola bottles,10% Off,685,40.59,0.1,0.03333333,1
+2024-10-28,P2224-Cola-600ml,Cola bottles,Base,349,43.05,0.0,0.06666667,1
+2024-10-28,P103-Classic-Chips-60g,Potato chips,10% Off,1079,27.68,0.1,0.03333333,1
+2024-10-28,P103-Masala-Chips-60g,Potato chips,10% Off,725,29.52,0.1,0.03333333,1
+2024-10-28,P069-Salted-Chips-60g,Potato chips,Base,478,28.7,0.0,0.06666667,1
+2024-10-28,P2224-Spicy-Chips-60g,Potato chips,Base,440,29.72,0.0,0.06666667,1
+2024-11-04,P103-Cola-600ml,Cola bottles,Base,552,46.12,0.0,0.0,0
+2024-11-04,P103-Zero-600ml,Cola bottles,Base,326,51.25,0.0,0.0,0
+2024-11-04,P069-Cola-600ml,Cola bottles,Base,487,45.1,0.0,0.0,0
+2024-11-04,P2224-Cola-600ml,Cola bottles,Base,351,43.05,0.0,0.0,0
+2024-11-04,P103-Classic-Chips-60g,Potato chips,Base,570,30.75,0.0,0.03333333,0
+2024-11-04,P103-Masala-Chips-60g,Potato chips,Base,561,32.8,0.0,0.03333333,0
+2024-11-04,P069-Salted-Chips-60g,Potato chips,Base,473,28.7,0.0,0.03333333,0
+2024-11-04,P2224-Spicy-Chips-60g,Potato chips,10% Off,542,26.75,0.1,0.0,0
+2024-11-11,P103-Cola-600ml,Cola bottles,10% Off,702,41.51,0.1,0.06666667,0
+2024-11-11,P103-Zero-600ml,Cola bottles,10% Off,371,46.12,0.1,0.06666667,0
+2024-11-11,P069-Cola-600ml,Cola bottles,Base,366,45.1,0.0,0.1,0
+2024-11-11,P2224-Cola-600ml,Cola bottles,10% Off,405,38.74,0.1,0.06666667,0
+2024-11-11,P103-Classic-Chips-60g,Potato chips,Base,651,30.75,0.0,0.1,0
+2024-11-11,P103-Masala-Chips-60g,Potato chips,Base,538,32.8,0.0,0.1,0
+2024-11-11,P069-Salted-Chips-60g,Potato chips,20% Off,742,22.96,0.2,0.03333333,0
+2024-11-11,P2224-Spicy-Chips-60g,Potato chips,10% Off,505,26.75,0.1,0.06666667,0
+2024-11-18,P103-Cola-600ml,Cola bottles,Base,384,46.12,0.0,0.06666667,0
+2024-11-18,P103-Zero-600ml,Cola bottles,20% Off,327,41.0,0.2,0.0,0
+2024-11-18,P069-Cola-600ml,Cola bottles,Base,347,45.1,0.0,0.06666667,0
+2024-11-18,P2224-Cola-600ml,Cola bottles,Base,240,43.05,0.0,0.06666667,0
+2024-11-18,P103-Classic-Chips-60g,Potato chips,10% Off,806,27.68,0.1,0.03333333,0
+2024-11-18,P103-Masala-Chips-60g,Potato chips,Base,367,32.8,0.0,0.06666667,0
+2024-11-18,P069-Salted-Chips-60g,Potato chips,10% Off,424,25.83,0.1,0.03333333,0
+2024-11-18,P2224-Spicy-Chips-60g,Potato chips,Base,280,29.72,0.0,0.06666667,0
+2024-11-25,P103-Cola-600ml,Cola bottles,Base,627,46.12,0.0,0.03333333,0
+2024-11-25,P103-Zero-600ml,Cola bottles,10% Off,365,46.12,0.1,0.0,0
+2024-11-25,P069-Cola-600ml,Cola bottles,Base,469,45.1,0.0,0.03333333,0
+2024-11-25,P2224-Cola-600ml,Cola bottles,Base,395,43.05,0.0,0.03333333,0
+2024-11-25,P103-Classic-Chips-60g,Potato chips,10% Off,1053,27.68,0.1,0.0,0
+2024-11-25,P103-Masala-Chips-60g,Potato chips,Base,644,32.8,0.0,0.03333333,0
+2024-11-25,P069-Salted-Chips-60g,Potato chips,Base,457,28.7,0.0,0.03333333,0
+2024-11-25,P2224-Spicy-Chips-60g,Potato chips,Base,433,29.72,0.0,0.03333333,0
+2024-12-02,P103-Cola-600ml,Cola bottles,Base,602,46.12,0.0,0.0,0
+2024-12-02,P103-Zero-600ml,Cola bottles,Base,291,51.25,0.0,0.0,0
+2024-12-02,P069-Cola-600ml,Cola bottles,Base,556,45.1,0.0,0.0,0
+2024-12-02,P2224-Cola-600ml,Cola bottles,Base,365,43.05,0.0,0.0,0
+2024-12-02,P103-Classic-Chips-60g,Potato chips,20% Off,1171,24.6,0.2,0.03333333,0
+2024-12-02,P103-Masala-Chips-60g,Potato chips,Base,528,32.8,0.0,0.1,0
+2024-12-02,P069-Salted-Chips-60g,Potato chips,10% Off,649,25.83,0.1,0.06666667,0
+2024-12-02,P2224-Spicy-Chips-60g,Potato chips,Base,299,29.72,0.0,0.1,0
+2024-12-09,P103-Cola-600ml,Cola bottles,Base,658,46.12,0.0,0.03333333,0
+2024-12-09,P103-Zero-600ml,Cola bottles,10% Off,378,46.12,0.1,0.0,0
+2024-12-09,P069-Cola-600ml,Cola bottles,Base,445,45.1,0.0,0.03333333,0
+2024-12-09,P2224-Cola-600ml,Cola bottles,Base,354,43.05,0.0,0.03333333,0
+2024-12-09,P103-Classic-Chips-60g,Potato chips,10% Off,964,27.68,0.1,0.0,0
+2024-12-09,P103-Masala-Chips-60g,Potato chips,Base,584,32.8,0.0,0.03333333,0
+2024-12-09,P069-Salted-Chips-60g,Potato chips,Base,466,28.7,0.0,0.03333333,0
+2024-12-09,P2224-Spicy-Chips-60g,Potato chips,Base,333,29.72,0.0,0.03333333,0
+2024-12-16,P103-Cola-600ml,Cola bottles,Base,555,46.12,0.0,0.06666667,0
+2024-12-16,P103-Zero-600ml,Cola bottles,10% Off,386,46.12,0.1,0.03333333,0
+2024-12-16,P069-Cola-600ml,Cola bottles,Base,414,45.1,0.0,0.06666667,0
+2024-12-16,P2224-Cola-600ml,Cola bottles,10% Off,445,38.74,0.1,0.03333333,0
+2024-12-16,P103-Classic-Chips-60g,Potato chips,Base,694,30.75,0.0,0.1,0
+2024-12-16,P103-Masala-Chips-60g,Potato chips,10% Off,640,29.52,0.1,0.06666667,0
+2024-12-16,P069-Salted-Chips-60g,Potato chips,20% Off,695,22.96,0.2,0.03333333,0
+2024-12-16,P2224-Spicy-Chips-60g,Potato chips,Base,360,29.72,0.0,0.1,0
+2024-12-23,P103-Cola-600ml,Cola bottles,Base,634,46.12,0.0,0.03333333,1
+2024-12-23,P103-Zero-600ml,Cola bottles,10% Off,427,46.12,0.1,0.0,1
+2024-12-23,P069-Cola-600ml,Cola bottles,Base,529,45.1,0.0,0.03333333,1
+2024-12-23,P2224-Cola-600ml,Cola bottles,Base,371,43.05,0.0,0.03333333,1
+2024-12-23,P103-Classic-Chips-60g,Potato chips,20% Off,1233,24.6,0.2,0.1,1
+2024-12-23,P103-Masala-Chips-60g,Potato chips,20% Off,837,26.24,0.2,0.1,1
+2024-12-23,P069-Salted-Chips-60g,Potato chips,Base,453,28.7,0.0,0.16666667,1
+2024-12-23,P2224-Spicy-Chips-60g,Potato chips,10% Off,544,26.75,0.1,0.13333333,1
+2024-12-30,P103-Cola-600ml,Cola bottles,Base,727,47.25,0.0,0.06666667,1
+2024-12-30,P103-Zero-600ml,Cola bottles,20% Off,587,42.0,0.2,0.0,1
+2024-12-30,P069-Cola-600ml,Cola bottles,Base,530,46.2,0.0,0.06666667,1
+2024-12-30,P2224-Cola-600ml,Cola bottles,Base,373,44.1,0.0,0.06666667,1
+2024-12-30,P103-Classic-Chips-60g,Potato chips,Base,807,31.5,0.0,0.0,1
+2024-12-30,P103-Masala-Chips-60g,Potato chips,Base,615,33.6,0.0,0.0,1
+2024-12-30,P069-Salted-Chips-60g,Potato chips,Base,621,29.4,0.0,0.0,1
+2024-12-30,P2224-Spicy-Chips-60g,Potato chips,Base,495,30.45,0.0,0.0,1
+2025-01-06,P103-Cola-600ml,Cola bottles,Base,526,47.25,0.0,0.13333333,0
+2025-01-06,P103-Zero-600ml,Cola bottles,20% Off,441,42.0,0.2,0.06666667,0
+2025-01-06,P069-Cola-600ml,Cola bottles,Base,489,46.2,0.0,0.13333333,0
+2025-01-06,P2224-Cola-600ml,Cola bottles,20% Off,564,35.28,0.2,0.06666667,0
+2025-01-06,P103-Classic-Chips-60g,Potato chips,Base,750,31.5,0.0,0.06666667,0
+2025-01-06,P103-Masala-Chips-60g,Potato chips,10% Off,751,30.24,0.1,0.03333333,0
+2025-01-06,P069-Salted-Chips-60g,Potato chips,10% Off,610,26.46,0.1,0.03333333,0
+2025-01-06,P2224-Spicy-Chips-60g,Potato chips,Base,402,30.45,0.0,0.06666667,0
+2025-01-13,P103-Cola-600ml,Cola bottles,Base,587,47.25,0.0,0.0,0
+2025-01-13,P103-Zero-600ml,Cola bottles,Base,287,52.5,0.0,0.0,0
+2025-01-13,P069-Cola-600ml,Cola bottles,Base,508,46.2,0.0,0.0,0
+2025-01-13,P2224-Cola-600ml,Cola bottles,Base,360,44.1,0.0,0.0,0
+2025-01-13,P103-Classic-Chips-60g,Potato chips,Base,779,31.5,0.0,0.0,0
+2025-01-13,P103-Masala-Chips-60g,Potato chips,Base,500,33.6,0.0,0.0,0
+2025-01-13,P069-Salted-Chips-60g,Potato chips,Base,414,29.4,0.0,0.0,0
+2025-01-13,P2224-Spicy-Chips-60g,Potato chips,Base,393,30.45,0.0,0.0,0
+2025-01-20,P103-Cola-600ml,Cola bottles,10% Off,886,42.52,0.1,0.0,0
+2025-01-20,P103-Zero-600ml,Cola bottles,Base,316,52.5,0.0,0.03333333,0
+2025-01-20,P069-Cola-600ml,Cola bottles,Base,517,46.2,0.0,0.03333333,0
+2025-01-20,P2224-Cola-600ml,Cola bottles,Base,420,44.1,0.0,0.03333333,0
+2025-01-20,P103-Classic-Chips-60g,Potato chips,Base,691,31.5,0.0,0.13333333,0
+2025-01-20,P103-Masala-Chips-60g,Potato chips,20% Off,814,26.88,0.2,0.06666667,0
+2025-01-20,P069-Salted-Chips-60g,Potato chips,10% Off,542,26.46,0.1,0.1,0
+2025-01-20,P2224-Spicy-Chips-60g,Potato chips,10% Off,517,27.4,0.1,0.1,0
+2025-01-27,P103-Cola-600ml,Cola bottles,Base,586,47.25,0.0,0.06666667,0
+2025-01-27,P103-Zero-600ml,Cola bottles,Base,366,52.5,0.0,0.06666667,0
+2025-01-27,P069-Cola-600ml,Cola bottles,Base,583,46.2,0.0,0.06666667,0
+2025-01-27,P2224-Cola-600ml,Cola bottles,20% Off,691,35.28,0.2,0.0,0
+2025-01-27,P103-Classic-Chips-60g,Potato chips,10% Off,1085,28.35,0.1,0.03333333,0
+2025-01-27,P103-Masala-Chips-60g,Potato chips,10% Off,731,30.24,0.1,0.03333333,0
+2025-01-27,P069-Salted-Chips-60g,Potato chips,Base,499,29.4,0.0,0.06666667,0
+2025-01-27,P2224-Spicy-Chips-60g,Potato chips,Base,376,30.45,0.0,0.06666667,0
+2025-02-03,P103-Cola-600ml,Cola bottles,Base,614,47.25,0.0,0.1,0
+2025-02-03,P103-Zero-600ml,Cola bottles,20% Off,581,42.0,0.2,0.03333333,0
+2025-02-03,P069-Cola-600ml,Cola bottles,Base,568,46.2,0.0,0.1,0
+2025-02-03,P2224-Cola-600ml,Cola bottles,10% Off,455,39.69,0.1,0.06666667,0
+2025-02-03,P103-Classic-Chips-60g,Potato chips,Base,737,31.5,0.0,0.0,0
+2025-02-03,P103-Masala-Chips-60g,Potato chips,Base,684,33.6,0.0,0.0,0
+2025-02-03,P069-Salted-Chips-60g,Potato chips,Base,525,29.4,0.0,0.0,0
+2025-02-03,P2224-Spicy-Chips-60g,Potato chips,Base,451,30.45,0.0,0.0,0
+2025-02-10,P103-Cola-600ml,Cola bottles,Base,712,47.25,0.0,0.06666667,0
+2025-02-10,P103-Zero-600ml,Cola bottles,20% Off,615,42.0,0.2,0.0,0
+2025-02-10,P069-Cola-600ml,Cola bottles,Base,578,46.2,0.0,0.06666667,0
+2025-02-10,P2224-Cola-600ml,Cola bottles,Base,391,44.1,0.0,0.06666667,0
+2025-02-10,P103-Classic-Chips-60g,Potato chips,Base,737,31.5,0.0,0.06666667,0
+2025-02-10,P103-Masala-Chips-60g,Potato chips,20% Off,1071,26.88,0.2,0.0,0
+2025-02-10,P069-Salted-Chips-60g,Potato chips,Base,447,29.4,0.0,0.06666667,0
+2025-02-10,P2224-Spicy-Chips-60g,Potato chips,Base,447,30.45,0.0,0.06666667,0
+2025-02-17,P103-Cola-600ml,Cola bottles,Base,519,47.25,0.0,0.1,0
+2025-02-17,P103-Zero-600ml,Cola bottles,10% Off,400,47.25,0.1,0.06666667,0
+2025-02-17,P069-Cola-600ml,Cola bottles,10% Off,725,41.58,0.1,0.06666667,0
+2025-02-17,P2224-Cola-600ml,Cola bottles,10% Off,414,39.69,0.1,0.06666667,0
+2025-02-17,P103-Classic-Chips-60g,Potato chips,10% Off,909,28.35,0.1,0.03333333,0
+2025-02-17,P103-Masala-Chips-60g,Potato chips,Base,523,33.6,0.0,0.06666667,0
+2025-02-17,P069-Salted-Chips-60g,Potato chips,10% Off,636,26.46,0.1,0.03333333,0
+2025-02-17,P2224-Spicy-Chips-60g,Potato chips,Base,348,30.45,0.0,0.06666667,0
+2025-02-24,P103-Cola-600ml,Cola bottles,Base,800,47.25,0.0,0.0,0
+2025-02-24,P103-Zero-600ml,Cola bottles,Base,373,52.5,0.0,0.0,0
+2025-02-24,P069-Cola-600ml,Cola bottles,Base,601,46.2,0.0,0.0,0
+2025-02-24,P2224-Cola-600ml,Cola bottles,Base,413,44.1,0.0,0.0,0
+2025-02-24,P103-Classic-Chips-60g,Potato chips,Base,710,31.5,0.0,0.06666667,0
+2025-02-24,P103-Masala-Chips-60g,Potato chips,Base,584,33.6,0.0,0.06666667,0
+2025-02-24,P069-Salted-Chips-60g,Potato chips,Base,422,29.4,0.0,0.06666667,0
+2025-02-24,P2224-Spicy-Chips-60g,Potato chips,20% Off,772,24.36,0.2,0.0,0
+2025-03-03,P103-Cola-600ml,Cola bottles,10% Off,1096,42.52,0.1,0.0,0
+2025-03-03,P103-Zero-600ml,Cola bottles,Base,420,52.5,0.0,0.03333333,0
+2025-03-03,P069-Cola-600ml,Cola bottles,Base,564,46.2,0.0,0.03333333,0
+2025-03-03,P2224-Cola-600ml,Cola bottles,Base,540,44.1,0.0,0.03333333,0
+2025-03-03,P103-Classic-Chips-60g,Potato chips,10% Off,1174,28.35,0.1,0.03333333,0
+2025-03-03,P103-Masala-Chips-60g,Potato chips,10% Off,903,30.24,0.1,0.03333333,0
+2025-03-03,P069-Salted-Chips-60g,Potato chips,Base,543,29.4,0.0,0.06666667,0
+2025-03-03,P2224-Spicy-Chips-60g,Potato chips,Base,408,30.45,0.0,0.06666667,0
+2025-03-10,P103-Cola-600ml,Cola bottles,Base,611,47.25,0.0,0.03333333,0
+2025-03-10,P103-Zero-600ml,Cola bottles,Base,350,52.5,0.0,0.03333333,0
+2025-03-10,P069-Cola-600ml,Cola bottles,Base,636,46.2,0.0,0.03333333,0
+2025-03-10,P2224-Cola-600ml,Cola bottles,10% Off,601,39.69,0.1,0.0,0
+2025-03-10,P103-Classic-Chips-60g,Potato chips,Base,703,31.5,0.0,0.06666667,0
+2025-03-10,P103-Masala-Chips-60g,Potato chips,10% Off,843,30.24,0.1,0.03333333,0
+2025-03-10,P069-Salted-Chips-60g,Potato chips,Base,490,29.4,0.0,0.06666667,0
+2025-03-10,P2224-Spicy-Chips-60g,Potato chips,10% Off,681,27.4,0.1,0.03333333,0
+2025-03-17,P103-Cola-600ml,Cola bottles,Base,651,47.25,0.0,0.1,1
+2025-03-17,P103-Zero-600ml,Cola bottles,10% Off,505,47.25,0.1,0.06666667,1
+2025-03-17,P069-Cola-600ml,Cola bottles,Base,631,46.2,0.0,0.1,1
+2025-03-17,P2224-Cola-600ml,Cola bottles,20% Off,706,35.28,0.2,0.03333333,1
+2025-03-17,P103-Classic-Chips-60g,Potato chips,Base,774,31.5,0.0,0.06666667,1
+2025-03-17,P103-Masala-Chips-60g,Potato chips,Base,555,33.6,0.0,0.06666667,1
+2025-03-17,P069-Salted-Chips-60g,Potato chips,Base,511,29.4,0.0,0.06666667,1
+2025-03-17,P2224-Spicy-Chips-60g,Potato chips,20% Off,720,24.36,0.2,0.0,1
+2025-03-24,P103-Cola-600ml,Cola bottles,Base,860,47.25,0.0,0.03333333,0
+2025-03-24,P103-Zero-600ml,Cola bottles,Base,404,52.5,0.0,0.03333333,0
+2025-03-24,P069-Cola-600ml,Cola bottles,Base,719,46.2,0.0,0.03333333,0
+2025-03-24,P2224-Cola-600ml,Cola bottles,10% Off,652,39.69,0.1,0.0,0
+2025-03-24,P103-Classic-Chips-60g,Potato chips,20% Off,1423,25.2,0.2,0.03333333,0
+2025-03-24,P103-Masala-Chips-60g,Potato chips,Base,563,33.6,0.0,0.1,0
+2025-03-24,P069-Salted-Chips-60g,Potato chips,Base,519,29.4,0.0,0.1,0
+2025-03-24,P2224-Spicy-Chips-60g,Potato chips,10% Off,407,27.4,0.1,0.06666667,0
+2025-03-31,P103-Cola-600ml,Cola bottles,Base,770,47.25,0.0,0.0,0
+2025-03-31,P103-Zero-600ml,Cola bottles,Base,341,52.5,0.0,0.0,0
+2025-03-31,P069-Cola-600ml,Cola bottles,Base,678,46.2,0.0,0.0,0
+2025-03-31,P2224-Cola-600ml,Cola bottles,Base,472,44.1,0.0,0.0,0
+2025-03-31,P103-Classic-Chips-60g,Potato chips,Base,601,31.5,0.0,0.1,0
+2025-03-31,P103-Masala-Chips-60g,Potato chips,20% Off,975,26.88,0.2,0.03333333,0
+2025-03-31,P069-Salted-Chips-60g,Potato chips,Base,384,29.4,0.0,0.1,0
+2025-03-31,P2224-Spicy-Chips-60g,Potato chips,10% Off,520,27.4,0.1,0.06666667,0
+2025-04-07,P103-Cola-600ml,Cola bottles,Base,748,47.25,0.0,0.03333333,0
+2025-04-07,P103-Zero-600ml,Cola bottles,Base,430,52.5,0.0,0.03333333,0
+2025-04-07,P069-Cola-600ml,Cola bottles,Base,652,46.2,0.0,0.03333333,0
+2025-04-07,P2224-Cola-600ml,Cola bottles,10% Off,625,39.69,0.1,0.0,0
+2025-04-07,P103-Classic-Chips-60g,Potato chips,Base,706,31.5,0.0,0.06666667,0
+2025-04-07,P103-Masala-Chips-60g,Potato chips,Base,524,33.6,0.0,0.06666667,0
+2025-04-07,P069-Salted-Chips-60g,Potato chips,20% Off,928,23.52,0.2,0.0,0
+2025-04-07,P2224-Spicy-Chips-60g,Potato chips,Base,405,30.45,0.0,0.06666667,0
+2025-04-14,P103-Cola-600ml,Cola bottles,Base,897,47.25,0.0,0.0,0
+2025-04-14,P103-Zero-600ml,Cola bottles,Base,451,52.5,0.0,0.0,0
+2025-04-14,P069-Cola-600ml,Cola bottles,Base,791,46.2,0.0,0.0,0
+2025-04-14,P2224-Cola-600ml,Cola bottles,Base,518,44.1,0.0,0.0,0
+2025-04-14,P103-Classic-Chips-60g,Potato chips,10% Off,1276,28.35,0.1,0.0,0
+2025-04-14,P103-Masala-Chips-60g,Potato chips,Base,709,33.6,0.0,0.03333333,0
+2025-04-14,P069-Salted-Chips-60g,Potato chips,Base,530,29.4,0.0,0.03333333,0
+2025-04-14,P2224-Spicy-Chips-60g,Potato chips,Base,523,30.45,0.0,0.03333333,0
+2025-04-21,P103-Cola-600ml,Cola bottles,10% Off,929,42.52,0.1,0.06666667,0
+2025-04-21,P103-Zero-600ml,Cola bottles,Base,397,52.5,0.0,0.1,0
+2025-04-21,P069-Cola-600ml,Cola bottles,Base,592,46.2,0.0,0.1,0
+2025-04-21,P2224-Cola-600ml,Cola bottles,20% Off,728,35.28,0.2,0.03333333,0
+2025-04-21,P103-Classic-Chips-60g,Potato chips,Base,852,31.5,0.0,0.06666667,0
+2025-04-21,P103-Masala-Chips-60g,Potato chips,20% Off,1158,26.88,0.2,0.0,0
+2025-04-21,P069-Salted-Chips-60g,Potato chips,Base,506,29.4,0.0,0.06666667,0
+2025-04-21,P2224-Spicy-Chips-60g,Potato chips,Base,445,30.45,0.0,0.06666667,0
+2025-04-28,P103-Cola-600ml,Cola bottles,Base,714,47.25,0.0,0.06666667,0
+2025-04-28,P103-Zero-600ml,Cola bottles,Base,377,52.5,0.0,0.06666667,0
+2025-04-28,P069-Cola-600ml,Cola bottles,10% Off,818,41.58,0.1,0.03333333,0
+2025-04-28,P2224-Cola-600ml,Cola bottles,10% Off,525,39.69,0.1,0.03333333,0
+2025-04-28,P103-Classic-Chips-60g,Potato chips,Base,744,31.5,0.0,0.0,0
+2025-04-28,P103-Masala-Chips-60g,Potato chips,Base,512,33.6,0.0,0.0,0
+2025-04-28,P069-Salted-Chips-60g,Potato chips,Base,519,29.4,0.0,0.0,0
+2025-04-28,P2224-Spicy-Chips-60g,Potato chips,Base,399,30.45,0.0,0.0,0
+2025-05-05,P103-Cola-600ml,Cola bottles,Base,889,47.25,0.0,0.0,0
+2025-05-05,P103-Zero-600ml,Cola bottles,Base,405,52.5,0.0,0.0,0
+2025-05-05,P069-Cola-600ml,Cola bottles,Base,631,46.2,0.0,0.0,0
+2025-05-05,P2224-Cola-600ml,Cola bottles,Base,483,44.1,0.0,0.0,0
+2025-05-05,P103-Classic-Chips-60g,Potato chips,Base,715,31.5,0.0,0.06666667,0
+2025-05-05,P103-Masala-Chips-60g,Potato chips,10% Off,806,30.24,0.1,0.03333333,0
+2025-05-05,P069-Salted-Chips-60g,Potato chips,Base,475,29.4,0.0,0.06666667,0
+2025-05-05,P2224-Spicy-Chips-60g,Potato chips,10% Off,524,27.4,0.1,0.03333333,0
+2025-05-12,P103-Cola-600ml,Cola bottles,Base,818,47.25,0.0,0.06666667,0
+2025-05-12,P103-Zero-600ml,Cola bottles,10% Off,496,47.25,0.1,0.03333333,0
+2025-05-12,P069-Cola-600ml,Cola bottles,Base,645,46.2,0.0,0.06666667,0
+2025-05-12,P2224-Cola-600ml,Cola bottles,10% Off,602,39.69,0.1,0.03333333,0
+2025-05-12,P103-Classic-Chips-60g,Potato chips,Base,771,31.5,0.0,0.0,0
+2025-05-12,P103-Masala-Chips-60g,Potato chips,Base,613,33.6,0.0,0.0,0
+2025-05-12,P069-Salted-Chips-60g,Potato chips,Base,516,29.4,0.0,0.0,0
+2025-05-12,P2224-Spicy-Chips-60g,Potato chips,Base,414,30.45,0.0,0.0,0
+2025-05-19,P103-Cola-600ml,Cola bottles,20% Off,1308,37.8,0.2,0.03333333,0
+2025-05-19,P103-Zero-600ml,Cola bottles,Base,430,52.5,0.0,0.1,0
+2025-05-19,P069-Cola-600ml,Cola bottles,10% Off,750,41.58,0.1,0.06666667,0
+2025-05-19,P2224-Cola-600ml,Cola bottles,Base,382,44.1,0.0,0.1,0
+2025-05-19,P103-Classic-Chips-60g,Potato chips,10% Off,963,28.35,0.1,0.13333333,0
+2025-05-19,P103-Masala-Chips-60g,Potato chips,20% Off,890,26.88,0.2,0.1,0
+2025-05-19,P069-Salted-Chips-60g,Potato chips,20% Off,690,23.52,0.2,0.1,0
+2025-05-19,P2224-Spicy-Chips-60g,Potato chips,Base,316,30.45,0.0,0.16666667,0
+2025-05-26,P103-Cola-600ml,Cola bottles,10% Off,798,42.52,0.1,0.1,0
+2025-05-26,P103-Zero-600ml,Cola bottles,Base,280,52.5,0.0,0.13333333,0
+2025-05-26,P069-Cola-600ml,Cola bottles,20% Off,878,36.96,0.2,0.06666667,0
+2025-05-26,P2224-Cola-600ml,Cola bottles,10% Off,502,39.69,0.1,0.1,0
+2025-05-26,P103-Classic-Chips-60g,Potato chips,Base,648,31.5,0.0,0.06666667,0
+2025-05-26,P103-Masala-Chips-60g,Potato chips,Base,537,33.6,0.0,0.06666667,0
+2025-05-26,P069-Salted-Chips-60g,Potato chips,10% Off,657,26.46,0.1,0.03333333,0
+2025-05-26,P2224-Spicy-Chips-60g,Potato chips,10% Off,528,27.4,0.1,0.03333333,0
+2025-06-02,P103-Cola-600ml,Cola bottles,Base,826,47.25,0.0,0.06666667,0
+2025-06-02,P103-Zero-600ml,Cola bottles,Base,378,52.5,0.0,0.06666667,0
+2025-06-02,P069-Cola-600ml,Cola bottles,10% Off,887,41.58,0.1,0.03333333,0
+2025-06-02,P2224-Cola-600ml,Cola bottles,10% Off,623,39.69,0.1,0.03333333,0
+2025-06-02,P103-Classic-Chips-60g,Potato chips,10% Off,829,28.35,0.1,0.2,0
+2025-06-02,P103-Masala-Chips-60g,Potato chips,20% Off,848,26.88,0.2,0.16666667,0
+2025-06-02,P069-Salted-Chips-60g,Potato chips,20% Off,604,23.52,0.2,0.16666667,0
+2025-06-02,P2224-Spicy-Chips-60g,Potato chips,20% Off,581,24.36,0.2,0.16666667,0
+2025-06-09,P103-Cola-600ml,Cola bottles,Base,829,47.25,0.0,0.0,0
+2025-06-09,P103-Zero-600ml,Cola bottles,Base,456,52.5,0.0,0.0,0
+2025-06-09,P069-Cola-600ml,Cola bottles,Base,714,46.2,0.0,0.0,0
+2025-06-09,P2224-Cola-600ml,Cola bottles,Base,513,44.1,0.0,0.0,0
+2025-06-09,P103-Classic-Chips-60g,Potato chips,Base,828,31.5,0.0,0.03333333,0
+2025-06-09,P103-Masala-Chips-60g,Potato chips,Base,562,33.6,0.0,0.03333333,0
+2025-06-09,P069-Salted-Chips-60g,Potato chips,Base,451,29.4,0.0,0.03333333,0
+2025-06-09,P2224-Spicy-Chips-60g,Potato chips,10% Off,593,27.4,0.1,0.0,0
+2025-06-16,P103-Cola-600ml,Cola bottles,10% Off,850,42.52,0.1,0.0,0
+2025-06-16,P103-Zero-600ml,Cola bottles,Base,412,52.5,0.0,0.03333333,0
+2025-06-16,P069-Cola-600ml,Cola bottles,Base,648,46.2,0.0,0.03333333,0
+2025-06-16,P2224-Cola-600ml,Cola bottles,Base,505,44.1,0.0,0.03333333,0
+2025-06-16,P103-Classic-Chips-60g,Potato chips,Base,761,31.5,0.0,0.03333333,0
+2025-06-16,P103-Masala-Chips-60g,Potato chips,Base,644,33.6,0.0,0.03333333,0
+2025-06-16,P069-Salted-Chips-60g,Potato chips,10% Off,684,26.46,0.1,0.0,0
+2025-06-16,P2224-Spicy-Chips-60g,Potato chips,Base,377,30.45,0.0,0.03333333,0
+2025-06-23,P103-Cola-600ml,Cola bottles,Base,849,47.25,0.0,0.0,0
+2025-06-23,P103-Zero-600ml,Cola bottles,Base,439,52.5,0.0,0.0,0
+2025-06-23,P069-Cola-600ml,Cola bottles,Base,649,46.2,0.0,0.0,0
+2025-06-23,P2224-Cola-600ml,Cola bottles,Base,586,44.1,0.0,0.0,0
+2025-06-23,P103-Classic-Chips-60g,Potato chips,10% Off,1330,28.35,0.1,0.03333333,0
+2025-06-23,P103-Masala-Chips-60g,Potato chips,Base,613,33.6,0.0,0.06666667,0
+2025-06-23,P069-Salted-Chips-60g,Potato chips,10% Off,646,26.46,0.1,0.03333333,0
+2025-06-23,P2224-Spicy-Chips-60g,Potato chips,Base,472,30.45,0.0,0.06666667,0
+2025-06-30,P103-Cola-600ml,Cola bottles,10% Off,945,42.52,0.1,0.06666667,0
+2025-06-30,P103-Zero-600ml,Cola bottles,Base,323,52.5,0.0,0.1,0
+2025-06-30,P069-Cola-600ml,Cola bottles,20% Off,1042,36.96,0.2,0.03333333,0
+2025-06-30,P2224-Cola-600ml,Cola bottles,Base,471,44.1,0.0,0.1,0
+2025-06-30,P103-Classic-Chips-60g,Potato chips,10% Off,1014,28.35,0.1,0.06666667,0
+2025-06-30,P103-Masala-Chips-60g,Potato chips,10% Off,829,30.24,0.1,0.06666667,0
+2025-06-30,P069-Salted-Chips-60g,Potato chips,Base,426,29.4,0.0,0.1,0
+2025-06-30,P2224-Spicy-Chips-60g,Potato chips,10% Off,633,27.4,0.1,0.06666667,0
+2025-07-07,P103-Cola-600ml,Cola bottles,Base,771,47.25,0.0,0.0,0
+2025-07-07,P103-Zero-600ml,Cola bottles,Base,392,52.5,0.0,0.0,0
+2025-07-07,P069-Cola-600ml,Cola bottles,Base,658,46.2,0.0,0.0,0
+2025-07-07,P2224-Cola-600ml,Cola bottles,Base,460,44.1,0.0,0.0,0
+2025-07-07,P103-Classic-Chips-60g,Potato chips,Base,784,31.5,0.0,0.0,0
+2025-07-07,P103-Masala-Chips-60g,Potato chips,Base,579,33.6,0.0,0.0,0
+2025-07-07,P069-Salted-Chips-60g,Potato chips,Base,493,29.4,0.0,0.0,0
+2025-07-07,P2224-Spicy-Chips-60g,Potato chips,Base,422,30.45,0.0,0.0,0
+2025-07-14,P103-Cola-600ml,Cola bottles,Base,680,47.25,0.0,0.1,0
+2025-07-14,P103-Zero-600ml,Cola bottles,10% Off,435,47.25,0.1,0.06666667,0
+2025-07-14,P069-Cola-600ml,Cola bottles,20% Off,929,36.96,0.2,0.03333333,0
+2025-07-14,P2224-Cola-600ml,Cola bottles,Base,423,44.1,0.0,0.1,0
+2025-07-14,P103-Classic-Chips-60g,Potato chips,Base,842,31.5,0.0,0.03333333,0
+2025-07-14,P103-Masala-Chips-60g,Potato chips,Base,583,33.6,0.0,0.03333333,0
+2025-07-14,P069-Salted-Chips-60g,Potato chips,10% Off,837,26.46,0.1,0.0,0
+2025-07-14,P2224-Spicy-Chips-60g,Potato chips,Base,400,30.45,0.0,0.03333333,0
+2025-07-21,P103-Cola-600ml,Cola bottles,10% Off,1070,42.52,0.1,0.06666667,0
+2025-07-21,P103-Zero-600ml,Cola bottles,20% Off,579,42.0,0.2,0.03333333,0
+2025-07-21,P069-Cola-600ml,Cola bottles,Base,540,46.2,0.0,0.1,0
+2025-07-21,P2224-Cola-600ml,Cola bottles,Base,424,44.1,0.0,0.1,0
+2025-07-21,P103-Classic-Chips-60g,Potato chips,10% Off,1223,28.35,0.1,0.0,0
+2025-07-21,P103-Masala-Chips-60g,Potato chips,Base,632,33.6,0.0,0.03333333,0
+2025-07-21,P069-Salted-Chips-60g,Potato chips,Base,506,29.4,0.0,0.03333333,0
+2025-07-21,P2224-Spicy-Chips-60g,Potato chips,Base,507,30.45,0.0,0.03333333,0
+2025-07-28,P103-Cola-600ml,Cola bottles,Base,557,47.25,0.0,0.1,0
+2025-07-28,P103-Zero-600ml,Cola bottles,Base,335,52.5,0.0,0.1,0
+2025-07-28,P069-Cola-600ml,Cola bottles,20% Off,1093,36.96,0.2,0.03333333,0
+2025-07-28,P2224-Cola-600ml,Cola bottles,10% Off,485,39.69,0.1,0.06666667,0
+2025-07-28,P103-Classic-Chips-60g,Potato chips,10% Off,1030,28.35,0.1,0.06666667,0
+2025-07-28,P103-Masala-Chips-60g,Potato chips,20% Off,915,26.88,0.2,0.03333333,0
+2025-07-28,P069-Salted-Chips-60g,Potato chips,Base,474,29.4,0.0,0.1,0
+2025-07-28,P2224-Spicy-Chips-60g,Potato chips,Base,347,30.45,0.0,0.1,0
+2025-08-04,P103-Cola-600ml,Cola bottles,Base,766,47.25,0.0,0.0,0
+2025-08-04,P103-Zero-600ml,Cola bottles,Base,360,52.5,0.0,0.0,0
+2025-08-04,P069-Cola-600ml,Cola bottles,Base,517,46.2,0.0,0.0,0
+2025-08-04,P2224-Cola-600ml,Cola bottles,Base,366,44.1,0.0,0.0,0
+2025-08-04,P103-Classic-Chips-60g,Potato chips,10% Off,944,28.35,0.1,0.03333333,0
+2025-08-04,P103-Masala-Chips-60g,Potato chips,Base,465,33.6,0.0,0.06666667,0
+2025-08-04,P069-Salted-Chips-60g,Potato chips,Base,458,29.4,0.0,0.06666667,0
+2025-08-04,P2224-Spicy-Chips-60g,Potato chips,10% Off,561,27.4,0.1,0.03333333,0
+2025-08-11,P103-Cola-600ml,Cola bottles,Base,647,47.25,0.0,0.03333333,0
+2025-08-11,P103-Zero-600ml,Cola bottles,Base,327,52.5,0.0,0.03333333,0
+2025-08-11,P069-Cola-600ml,Cola bottles,Base,592,46.2,0.0,0.03333333,0
+2025-08-11,P2224-Cola-600ml,Cola bottles,10% Off,576,39.69,0.1,0.0,0
+2025-08-11,P103-Classic-Chips-60g,Potato chips,20% Off,1055,25.2,0.2,0.06666667,0
+2025-08-11,P103-Masala-Chips-60g,Potato chips,20% Off,758,26.88,0.2,0.06666667,0
+2025-08-11,P069-Salted-Chips-60g,Potato chips,Base,395,29.4,0.0,0.13333333,0
+2025-08-11,P2224-Spicy-Chips-60g,Potato chips,Base,326,30.45,0.0,0.13333333,0
+2025-08-18,P103-Cola-600ml,Cola bottles,10% Off,837,42.52,0.1,0.13333333,1
+2025-08-18,P103-Zero-600ml,Cola bottles,20% Off,480,42.0,0.2,0.1,1
+2025-08-18,P069-Cola-600ml,Cola bottles,10% Off,708,41.58,0.1,0.13333333,1
+2025-08-18,P2224-Cola-600ml,Cola bottles,10% Off,490,39.69,0.1,0.13333333,1
+2025-08-18,P103-Classic-Chips-60g,Potato chips,Base,696,31.5,0.0,0.03333333,1
+2025-08-18,P103-Masala-Chips-60g,Potato chips,Base,511,33.6,0.0,0.03333333,1
+2025-08-18,P069-Salted-Chips-60g,Potato chips,Base,477,29.4,0.0,0.03333333,1
+2025-08-18,P2224-Spicy-Chips-60g,Potato chips,10% Off,579,27.4,0.1,0.0,1
+2025-08-25,P103-Cola-600ml,Cola bottles,Base,663,47.25,0.0,0.1,0
+2025-08-25,P103-Zero-600ml,Cola bottles,Base,308,52.5,0.0,0.1,0
+2025-08-25,P069-Cola-600ml,Cola bottles,20% Off,898,36.96,0.2,0.03333333,0
+2025-08-25,P2224-Cola-600ml,Cola bottles,10% Off,477,39.69,0.1,0.06666667,0
+2025-08-25,P103-Classic-Chips-60g,Potato chips,Base,790,31.5,0.0,0.03333333,0
+2025-08-25,P103-Masala-Chips-60g,Potato chips,Base,615,33.6,0.0,0.03333333,0
+2025-08-25,P069-Salted-Chips-60g,Potato chips,10% Off,669,26.46,0.1,0.0,0
+2025-08-25,P2224-Spicy-Chips-60g,Potato chips,Base,455,30.45,0.0,0.03333333,0
+2025-09-01,P103-Cola-600ml,Cola bottles,Base,519,47.25,0.0,0.13333333,0
+2025-09-01,P103-Zero-600ml,Cola bottles,10% Off,423,47.25,0.1,0.1,0
+2025-09-01,P069-Cola-600ml,Cola bottles,20% Off,711,36.96,0.2,0.06666667,0
+2025-09-01,P2224-Cola-600ml,Cola bottles,10% Off,444,39.69,0.1,0.1,0
+2025-09-01,P103-Classic-Chips-60g,Potato chips,10% Off,1172,28.35,0.1,0.0,0
+2025-09-01,P103-Masala-Chips-60g,Potato chips,Base,642,33.6,0.0,0.03333333,0
+2025-09-01,P069-Salted-Chips-60g,Potato chips,Base,462,29.4,0.0,0.03333333,0
+2025-09-01,P2224-Spicy-Chips-60g,Potato chips,Base,401,30.45,0.0,0.03333333,0
+2025-09-08,P103-Cola-600ml,Cola bottles,Base,577,47.25,0.0,0.06666667,0
+2025-09-08,P103-Zero-600ml,Cola bottles,Base,287,52.5,0.0,0.06666667,0
+2025-09-08,P069-Cola-600ml,Cola bottles,10% Off,556,41.58,0.1,0.03333333,0
+2025-09-08,P2224-Cola-600ml,Cola bottles,10% Off,481,39.69,0.1,0.03333333,0
+2025-09-08,P103-Classic-Chips-60g,Potato chips,Base,602,31.5,0.0,0.13333333,0
+2025-09-08,P103-Masala-Chips-60g,Potato chips,Base,411,33.6,0.0,0.13333333,0
+2025-09-08,P069-Salted-Chips-60g,Potato chips,20% Off,737,23.52,0.2,0.06666667,0
+2025-09-08,P2224-Spicy-Chips-60g,Potato chips,20% Off,593,24.36,0.2,0.06666667,0
+2025-09-15,P103-Cola-600ml,Cola bottles,Base,673,47.25,0.0,0.03333333,0
+2025-09-15,P103-Zero-600ml,Cola bottles,10% Off,389,47.25,0.1,0.0,0
+2025-09-15,P069-Cola-600ml,Cola bottles,Base,481,46.2,0.0,0.03333333,0
+2025-09-15,P2224-Cola-600ml,Cola bottles,Base,419,44.1,0.0,0.03333333,0
+2025-09-15,P103-Classic-Chips-60g,Potato chips,Base,712,31.5,0.0,0.13333333,0
+2025-09-15,P103-Masala-Chips-60g,Potato chips,10% Off,651,30.24,0.1,0.1,0
+2025-09-15,P069-Salted-Chips-60g,Potato chips,10% Off,524,26.46,0.1,0.1,0
+2025-09-15,P2224-Spicy-Chips-60g,Potato chips,20% Off,554,24.36,0.2,0.06666667,0
+2025-09-22,P103-Cola-600ml,Cola bottles,10% Off,777,42.52,0.1,0.06666667,0
+2025-09-22,P103-Zero-600ml,Cola bottles,Base,244,52.5,0.0,0.1,0
+2025-09-22,P069-Cola-600ml,Cola bottles,20% Off,792,36.96,0.2,0.03333333,0
+2025-09-22,P2224-Cola-600ml,Cola bottles,Base,327,44.1,0.0,0.1,0
+2025-09-22,P103-Classic-Chips-60g,Potato chips,10% Off,891,28.35,0.1,0.03333333,0
+2025-09-22,P103-Masala-Chips-60g,Potato chips,10% Off,676,30.24,0.1,0.03333333,0
+2025-09-22,P069-Salted-Chips-60g,Potato chips,Base,378,29.4,0.0,0.06666667,0
+2025-09-22,P2224-Spicy-Chips-60g,Potato chips,Base,340,30.45,0.0,0.06666667,0
+2025-09-29,P103-Cola-600ml,Cola bottles,10% Off,721,42.52,0.1,0.06666667,0
+2025-09-29,P103-Zero-600ml,Cola bottles,Base,316,52.5,0.0,0.1,0
+2025-09-29,P069-Cola-600ml,Cola bottles,Base,405,46.2,0.0,0.1,0
+2025-09-29,P2224-Cola-600ml,Cola bottles,20% Off,570,35.28,0.2,0.03333333,0
+2025-09-29,P103-Classic-Chips-60g,Potato chips,20% Off,1349,25.2,0.2,0.03333333,0
+2025-09-29,P103-Masala-Chips-60g,Potato chips,Base,510,33.6,0.0,0.1,0
+2025-09-29,P069-Salted-Chips-60g,Potato chips,Base,463,29.4,0.0,0.1,0
+2025-09-29,P2224-Spicy-Chips-60g,Potato chips,10% Off,459,27.4,0.1,0.06666667,0
+2025-10-06,P103-Cola-600ml,Cola bottles,Base,515,47.25,0.0,0.03333333,0
+2025-10-06,P103-Zero-600ml,Cola bottles,Base,364,52.5,0.0,0.03333333,0
+2025-10-06,P069-Cola-600ml,Cola bottles,10% Off,656,41.58,0.1,0.0,0
+2025-10-06,P2224-Cola-600ml,Cola bottles,Base,387,44.1,0.0,0.03333333,0
+2025-10-06,P103-Classic-Chips-60g,Potato chips,Base,595,31.5,0.0,0.03333333,0
+2025-10-06,P103-Masala-Chips-60g,Potato chips,10% Off,859,30.24,0.1,0.0,0
+2025-10-06,P069-Salted-Chips-60g,Potato chips,Base,498,29.4,0.0,0.03333333,0
+2025-10-06,P2224-Spicy-Chips-60g,Potato chips,Base,357,30.45,0.0,0.03333333,0
+2025-10-13,P103-Cola-600ml,Cola bottles,10% Off,832,42.52,0.1,0.03333333,1
+2025-10-13,P103-Zero-600ml,Cola bottles,Base,332,52.5,0.0,0.06666667,1
+2025-10-13,P069-Cola-600ml,Cola bottles,10% Off,612,41.58,0.1,0.03333333,1
+2025-10-13,P2224-Cola-600ml,Cola bottles,Base,389,44.1,0.0,0.06666667,1
+2025-10-13,P103-Classic-Chips-60g,Potato chips,10% Off,1101,28.35,0.1,0.0,1
+2025-10-13,P103-Masala-Chips-60g,Potato chips,Base,576,33.6,0.0,0.03333333,1
+2025-10-13,P069-Salted-Chips-60g,Potato chips,Base,511,29.4,0.0,0.03333333,1
+2025-10-13,P2224-Spicy-Chips-60g,Potato chips,Base,430,30.45,0.0,0.03333333,1
+2025-10-20,P103-Cola-600ml,Cola bottles,20% Off,884,37.8,0.2,0.06666667,1
+2025-10-20,P103-Zero-600ml,Cola bottles,10% Off,325,47.25,0.1,0.1,1
+2025-10-20,P069-Cola-600ml,Cola bottles,10% Off,596,41.58,0.1,0.1,1
+2025-10-20,P2224-Cola-600ml,Cola bottles,Base,302,44.1,0.0,0.13333333,1
+2025-10-20,P103-Classic-Chips-60g,Potato chips,Base,604,31.5,0.0,0.1,1
+2025-10-20,P103-Masala-Chips-60g,Potato chips,20% Off,895,26.88,0.2,0.03333333,1
+2025-10-20,P069-Salted-Chips-60g,Potato chips,Base,416,29.4,0.0,0.1,1
+2025-10-20,P2224-Spicy-Chips-60g,Potato chips,10% Off,539,27.4,0.1,0.06666667,1
+2025-10-27,P103-Cola-600ml,Cola bottles,Base,615,47.25,0.0,0.03333333,1
+2025-10-27,P103-Zero-600ml,Cola bottles,10% Off,453,47.25,0.1,0.0,1
+2025-10-27,P069-Cola-600ml,Cola bottles,Base,554,46.2,0.0,0.03333333,1
+2025-10-27,P2224-Cola-600ml,Cola bottles,Base,401,44.1,0.0,0.03333333,1
+2025-10-27,P103-Classic-Chips-60g,Potato chips,20% Off,1081,25.2,0.2,0.13333333,1
+2025-10-27,P103-Masala-Chips-60g,Potato chips,20% Off,724,26.88,0.2,0.13333333,1
+2025-10-27,P069-Salted-Chips-60g,Potato chips,20% Off,707,23.52,0.2,0.13333333,1
+2025-10-27,P2224-Spicy-Chips-60g,Potato chips,Base,364,30.45,0.0,0.2,1
+2025-11-03,P103-Cola-600ml,Cola bottles,10% Off,635,42.52,0.1,0.0,0
+2025-11-03,P103-Zero-600ml,Cola bottles,Base,255,52.5,0.0,0.03333333,0
+2025-11-03,P069-Cola-600ml,Cola bottles,Base,456,46.2,0.0,0.03333333,0
+2025-11-03,P2224-Cola-600ml,Cola bottles,Base,361,44.1,0.0,0.03333333,0
+2025-11-03,P103-Classic-Chips-60g,Potato chips,Base,681,31.5,0.0,0.0,0
+2025-11-03,P103-Masala-Chips-60g,Potato chips,Base,515,33.6,0.0,0.0,0
+2025-11-03,P069-Salted-Chips-60g,Potato chips,Base,422,29.4,0.0,0.0,0
+2025-11-03,P2224-Spicy-Chips-60g,Potato chips,Base,393,30.45,0.0,0.0,0
+2025-11-10,P103-Cola-600ml,Cola bottles,Base,515,47.25,0.0,0.06666667,0
+2025-11-10,P103-Zero-600ml,Cola bottles,Base,275,52.5,0.0,0.06666667,0
+2025-11-10,P069-Cola-600ml,Cola bottles,20% Off,716,36.96,0.2,0.0,0
+2025-11-10,P2224-Cola-600ml,Cola bottles,Base,382,44.1,0.0,0.06666667,0
+2025-11-10,P103-Classic-Chips-60g,Potato chips,20% Off,1126,25.2,0.2,0.06666667,0
+2025-11-10,P103-Masala-Chips-60g,Potato chips,Base,482,33.6,0.0,0.13333333,0
+2025-11-10,P069-Salted-Chips-60g,Potato chips,Base,402,29.4,0.0,0.13333333,0
+2025-11-10,P2224-Spicy-Chips-60g,Potato chips,20% Off,566,24.36,0.2,0.06666667,0
+2025-11-17,P103-Cola-600ml,Cola bottles,Base,473,47.25,0.0,0.03333333,0
+2025-11-17,P103-Zero-600ml,Cola bottles,10% Off,329,47.25,0.1,0.0,0
+2025-11-17,P069-Cola-600ml,Cola bottles,Base,417,46.2,0.0,0.03333333,0
+2025-11-17,P2224-Cola-600ml,Cola bottles,Base,340,44.1,0.0,0.03333333,0
+2025-11-17,P103-Classic-Chips-60g,Potato chips,Base,675,31.5,0.0,0.0,0
+2025-11-17,P103-Masala-Chips-60g,Potato chips,Base,496,33.6,0.0,0.0,0
+2025-11-17,P069-Salted-Chips-60g,Potato chips,Base,380,29.4,0.0,0.0,0
+2025-11-17,P2224-Spicy-Chips-60g,Potato chips,Base,354,30.45,0.0,0.0,0
+2025-11-24,P103-Cola-600ml,Cola bottles,Base,461,47.25,0.0,0.16666667,0
+2025-11-24,P103-Zero-600ml,Cola bottles,20% Off,387,42.0,0.2,0.1,0
+2025-11-24,P069-Cola-600ml,Cola bottles,20% Off,518,36.96,0.2,0.1,0
+2025-11-24,P2224-Cola-600ml,Cola bottles,10% Off,354,39.69,0.1,0.13333333,0
+2025-11-24,P103-Classic-Chips-60g,Potato chips,Base,747,31.5,0.0,0.06666667,0
+2025-11-24,P103-Masala-Chips-60g,Potato chips,20% Off,979,26.88,0.2,0.0,0
+2025-11-24,P069-Salted-Chips-60g,Potato chips,Base,456,29.4,0.0,0.06666667,0
+2025-11-24,P2224-Spicy-Chips-60g,Potato chips,Base,392,30.45,0.0,0.06666667,0
+2025-12-01,P103-Cola-600ml,Cola bottles,Base,751,47.25,0.0,0.0,0
+2025-12-01,P103-Zero-600ml,Cola bottles,Base,313,52.5,0.0,0.0,0
+2025-12-01,P069-Cola-600ml,Cola bottles,Base,516,46.2,0.0,0.0,0
+2025-12-01,P2224-Cola-600ml,Cola bottles,Base,345,44.1,0.0,0.0,0
+2025-12-01,P103-Classic-Chips-60g,Potato chips,Base,796,31.5,0.0,0.0,0
+2025-12-01,P103-Masala-Chips-60g,Potato chips,Base,572,33.6,0.0,0.0,0
+2025-12-01,P069-Salted-Chips-60g,Potato chips,Base,472,29.4,0.0,0.0,0
+2025-12-01,P2224-Spicy-Chips-60g,Potato chips,Base,423,30.45,0.0,0.0,0
+2025-12-08,P103-Cola-600ml,Cola bottles,Base,688,47.25,0.0,0.0,0
+2025-12-08,P103-Zero-600ml,Cola bottles,Base,346,52.5,0.0,0.0,0
+2025-12-08,P069-Cola-600ml,Cola bottles,Base,650,46.2,0.0,0.0,0
+2025-12-08,P2224-Cola-600ml,Cola bottles,Base,477,44.1,0.0,0.0,0
+2025-12-08,P103-Classic-Chips-60g,Potato chips,10% Off,1116,28.35,0.1,0.0,0
+2025-12-08,P103-Masala-Chips-60g,Potato chips,Base,676,33.6,0.0,0.03333333,0
+2025-12-08,P069-Salted-Chips-60g,Potato chips,Base,601,29.4,0.0,0.03333333,0
+2025-12-08,P2224-Spicy-Chips-60g,Potato chips,Base,491,30.45,0.0,0.03333333,0
+2025-12-15,P103-Cola-600ml,Cola bottles,Base,557,47.25,0.0,0.03333333,0
+2025-12-15,P103-Zero-600ml,Cola bottles,Base,333,52.5,0.0,0.03333333,0
+2025-12-15,P069-Cola-600ml,Cola bottles,Base,473,46.2,0.0,0.03333333,0
+2025-12-15,P2224-Cola-600ml,Cola bottles,10% Off,508,39.69,0.1,0.0,0
+2025-12-15,P103-Classic-Chips-60g,Potato chips,Base,644,31.5,0.0,0.0,0
+2025-12-15,P103-Masala-Chips-60g,Potato chips,Base,544,33.6,0.0,0.0,0
+2025-12-15,P069-Salted-Chips-60g,Potato chips,Base,433,29.4,0.0,0.0,0
+2025-12-15,P2224-Spicy-Chips-60g,Potato chips,Base,422,30.45,0.0,0.0,0
+2025-12-22,P103-Cola-600ml,Cola bottles,Base,582,47.25,0.0,0.06666667,1
+2025-12-22,P103-Zero-600ml,Cola bottles,Base,344,52.5,0.0,0.06666667,1
+2025-12-22,P069-Cola-600ml,Cola bottles,Base,592,46.2,0.0,0.06666667,1
+2025-12-22,P2224-Cola-600ml,Cola bottles,20% Off,669,35.28,0.2,0.0,1
+2025-12-22,P103-Classic-Chips-60g,Potato chips,Base,801,31.5,0.0,0.0,1
+2025-12-22,P103-Masala-Chips-60g,Potato chips,Base,680,33.6,0.0,0.0,1
+2025-12-22,P069-Salted-Chips-60g,Potato chips,Base,481,29.4,0.0,0.0,1
+2025-12-22,P2224-Spicy-Chips-60g,Potato chips,Base,437,30.45,0.0,0.0,1
